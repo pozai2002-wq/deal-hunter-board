@@ -1,7 +1,22 @@
 {
- "updatedAt": "2026-10-07T12:06:13-07:00",
+ "updatedAt": "2026-10-07T12:30:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
+  {
+   "id": "B0GTN5GNZ9",
+   "name": "Liquid Death Fan Favorites Sparkling Water Variety, 12 x 12 oz",
+   "price": 11.99,
+   "list": null,
+   "category": "beverages",
+   "badge": "Prime Big Deal",
+   "atl": "atl",
+   "url": "https://www.amazon.com/dp/B0GTN5GNZ9",
+   "note": "ATL · $11.99 one-time (~$1.00/can) · new low under Camel Amazon low $15.98 (Aug 3, 2026) · ships/sold by Amazon · deal ends ~11:59pm PT · signed-in 12:30pm PT Oct 7",
+   "image": "assets/B0GTN5GNZ9.jpg",
+   "atlStatus": "atl",
+   "atlPrice": 11.99,
+   "atlNote": "New Amazon ATL: signed-in $11.99 beats prior Camel Amazon all-time low $15.98 (Aug 3, 2026)."
+  },
   {
    "id": "B08HSSFB2X",
    "name": "Nutricost Micellar Casein Protein Powder, Unflavored, 5 lb",
