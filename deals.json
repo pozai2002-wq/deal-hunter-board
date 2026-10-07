@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:45:00-07:00",
+  "updatedAt": "2026-10-07T00:46:00-07:00",
   "eventEnds": "2026-10-07T23:59:00-07:00",
   "deals": [
     {
@@ -1415,16 +1415,16 @@
     {
       "id": "B0FKVWSM3N",
       "name": "Cronos: The New Dawn (Switch 2)",
-      "price": 24.0,
+      "price": 24.26,
       "list": 39.0,
       "category": "electronics",
       "badge": "Big Deal Days",
-      "atl": "atl",
-      "atlStatus": "atl",
+      "atl": "near-atl",
+      "atlStatus": "near-atl",
       "atlPrice": 24.0,
-      "atlNote": "New Amazon low: $24.00 beats camel Amazon low $25.96 (Jul 15, 2026).",
+      "atlNote": "Near-ATL: $24.26 is +$0.26 vs Amazon low $24.00 (Oct 6, 2026). Now sold by BEST SOURCE 365 (shipped by Amazon), not Amazon.com.",
       "url": "https://www.amazon.com/dp/B0FKVWSM3N",
-      "note": "ATL \u00b7 lowest $24.00 \u00b7 price per Tom's Guide Switch 2 Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL \u00b7 lowest $24.00 \u00b7 live-checked 12:44am PT Oct 7; 3rd-party seller, shipped by Amazon",
       "image": "assets/B0FKVWSM3N.jpg"
     },
     {
@@ -1459,17 +1459,17 @@
     },
     {
       "id": "B0DBJ5BGPH",
-      "name": "PDP Afterglow Wave Wireless Controller (Switch)",
-      "price": 28.0,
+      "name": "PDP Afterglow Wave Wireless Controller (Switch 2)",
+      "price": 28.49,
       "list": 59.0,
       "category": "electronics",
       "badge": "Big Deal Days",
-      "atl": "atl",
-      "atlStatus": "atl",
+      "atl": "near-atl",
+      "atlStatus": "near-atl",
       "atlPrice": 28.0,
-      "atlNote": "New Amazon low: $28.00 beats camel Amazon low $29.99 (Jun 07, 2026).",
+      "atlNote": "Near-ATL: $28.49 is +$0.49 vs Amazon low $28.00 (Oct 6, 2026). Amazon shows \"365-day low price\". Sold by Amazon.com.",
       "url": "https://www.amazon.com/dp/B0DBJ5BGPH",
-      "note": "ATL \u00b7 lowest $28.00 \u00b7 price per Tom's Guide Switch 2 Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL \u00b7 lowest $28.00 \u00b7 live-checked 12:44am PT Oct 7",
       "image": "assets/B0DBJ5BGPH.jpg"
     },
     {
