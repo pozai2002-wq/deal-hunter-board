@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:30:00-07:00",
+  "updatedAt": "2026-10-07T00:36:00-07:00",
   "eventEnds": "2026-10-07T23:59:00-07:00",
   "deals": [
     {
@@ -852,7 +852,7 @@
       "atlPrice": 39.88,
       "atlNote": "camel Amazon ATL $39.88 (Oct 6 2026) = today's price",
       "url": "https://www.amazon.com/dp/B0FC6J5CMG",
-      "note": "ATL $39.88 · gaming · physical Switch 2 Edition · Amazon page showed only \"See All Buying Options\" at 12:30am PT Oct 7, so it may be sold out from Amazon at this price",
+      "note": "ATL $39.88 · gaming · physical Switch 2 Edition · back in stock, ships from and sold by Amazon.com (live-checked 12:35am PT Oct 7)",
       "image": "assets/B0FC6J5CMG.webp"
     },
     {
@@ -1450,7 +1450,7 @@
       "atlPrice": 42.99,
       "atlNote": "New Amazon low: $42.99 beats camel Amazon low $49.94 (Oct 04, 2026).",
       "url": "https://www.amazon.com/dp/B0H2JXTRBY",
-      "note": "ATL · lowest $42.99 · price per dealnews Prime Big Deal Days tech roundup ($42.99); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $42.99 · price per dealnews Prime Big Deal Days tech roundup ($42.99); added 10:55pm PT Oct 6 · live-checked $42.99 sold by Amazon, Prime Big Deal (12:35am PT Oct 7)",
       "image": "assets/B0H2JXTRBY.jpg"
     },
     {
@@ -2191,16 +2191,16 @@
     {
       "id": "B0GS1FPXCK",
       "name": "Cosori Stainless Electric Kettle",
-      "price": 30.0,
+      "price": 29.99,
       "list": 36.0,
       "category": "kitchen",
       "badge": "Big Deal Days",
-      "atl": "near-atl",
-      "atlStatus": "near-atl",
+      "atl": "atl",
+      "atlStatus": "atl",
       "atlPrice": 29.99,
-      "atlNote": "Near-ATL: +$0.01 (0.0%) vs camel Amazon low $29.99 (Jun 20, 2026).",
+      "atlNote": "ATL: matches camel Amazon low $29.99 (Jun 20, 2026).",
       "url": "https://www.amazon.com/dp/B0GS1FPXCK",
-      "note": "Near-ATL · lowest $29.99 · price per Business Insider Prime Day kitchen deals (Oct 2026); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $29.99 · live-checked $29.99, sold by Amazon.com, Prime Big Deal (12:35am PT Oct 7)",
       "image": "assets/B0GS1FPXCK.jpg"
     },
     {
