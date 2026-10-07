@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:38:00-07:00",
+  "updatedAt": "2026-10-07T10:07:00-07:00",
   "eventEnds": "2026-10-07T23:59:00-07:00",
   "deals": [
     {
@@ -110,17 +110,17 @@
     {
       "id": "B0FJNSHF8G",
       "name": "K18 HeatBounce Heat Protection Spray 4 oz",
-      "price": 36.0,
+      "price": 34.2,
       "list": 48.0,
       "category": "beauty",
       "badge": "Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0FJNSHF8G",
-      "note": "ATL · Camel 3P $36 · GF K18 · live-checked 9:15am PT Oct 7",
+      "note": "ATL $36.00 tracked · S&S $34.20 now",
       "image": "assets/B0FJNSHF8G.jpg",
       "atlStatus": "atl",
       "atlPrice": 36.0,
-      "atlNote": "ATL vs Camel 3P-new low $36 (Jun 23, 2026); Amazon-sold series empty on Camel. GF K18."
+      "atlNote": "ATL (S&S): signed-in Subscribe & Save $34.20 beats tracked Amazon low $36.00 (one-time $36.00). Ships from Amazon, sold by K18 Hair. Checked 9:52am PT Oct 7."
     },
     {
       "id": "B0D14N2QZF",
@@ -515,17 +515,17 @@
     {
       "id": "B0CRF6ZCKZ",
       "name": "Christophe Robin Cleansing Purifying Scrub with Sea Salt",
-      "price": 32.4,
+      "price": 29.16,
       "list": 54.0,
       "category": "beauty",
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0CRF6ZCKZ",
-      "note": "ATL $32.40 · below prior Camel Amazon $37.80",
+      "note": "ATL $32.40 tracked · S&S $29.16 now",
       "image": "assets/B0CRF6ZCKZ.webp",
       "atlStatus": "atl",
       "atlPrice": 32.4,
-      "atlNote": "Live $32.40 below prior Camel Amazon ATL $37.80 (Apr 2025) → new Amazon ATL"
+      "atlNote": "ATL (S&S): signed-in Subscribe & Save $29.16 beats tracked Amazon low $32.40 (one-time $32.40). Ships from Amazon, sold by Christophe Robin. Checked 9:52am PT Oct 7."
     },
     {
       "id": "B0FLTGFKPR",
@@ -545,17 +545,17 @@
     {
       "id": "B0B2RM68G2",
       "name": "BIODANCE Bio-Collagen Real Deep Mask 4-pack",
-      "price": 12.99,
+      "price": 11.69,
       "list": 19.0,
       "category": "beauty",
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0B2RM68G2",
-      "note": "ATL $12.99 · below prior Camel Amazon-sold $15.20",
+      "note": "ATL $12.99 tracked · S&S $11.69 now",
       "image": "assets/B0B2RM68G2.webp",
       "atlStatus": "atl",
       "atlPrice": 12.99,
-      "atlNote": "Live $12.99 below prior Camel Amazon-sold ATL $15.20; RiverPrice 3P ATL $12 (2023)"
+      "atlNote": "ATL (S&S): signed-in Subscribe & Save $11.69 beats tracked Amazon low $12.99 (one-time $12.99). Ships from Amazon, sold by Biodance. Checked 9:52am PT Oct 7."
     },
     {
       "id": "B0D4SBLLRJ",
