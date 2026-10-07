@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T10:21:00-07:00",
+ "updatedAt": "2026-10-07T10:33:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1064,7 +1064,7 @@
    "atlPrice": 379.99,
    "atlNote": "Matches camel Amazon low $379.99 (Oct 04, 2026).",
    "url": "https://www.amazon.com/dp/B0DVQQGMCZ",
-   "note": "ATL · lowest $379.99 · live-checked 11:01pm PT Oct 6",
+   "note": "ATL · lowest $379.99 · live-checked 10:33am PT Oct 7",
    "image": "assets/B0DVQQGMCZ.jpg"
   },
   {
@@ -1109,7 +1109,7 @@
    "atlPrice": 159.99,
    "atlNote": "Matches camel Amazon low $159.99 (Jun 23, 2026).",
    "url": "https://www.amazon.com/dp/B0BQBSW9SG",
-   "note": "ATL · lowest $159.99 · live-checked 11:01pm PT Oct 6",
+   "note": "ATL · lowest $159.99 · Prime Big Deal (Magenta listing) · live-checked 10:33am PT Oct 7",
    "image": "assets/B0BQBSW9SG.jpg"
   },
   {
@@ -1364,7 +1364,7 @@
    "atlPrice": 161.49,
    "atlNote": "Near-ATL: +$8.07 (5.0%) vs camel Amazon low $161.49 (Jun 23, 2026).",
    "url": "https://www.amazon.com/dp/B0BFJ4CRKD",
-   "note": "Near-ATL · lowest $161.49 · live-checked 11:01pm PT Oct 6",
+   "note": "Near-ATL · lowest $161.49 · live-checked 10:33am PT Oct 7",
    "image": "assets/B0BFJ4CRKD.jpg"
   },
   {
@@ -1439,7 +1439,7 @@
    "atlPrice": 151.99,
    "atlNote": "New Amazon low: $151.99 beats camel Amazon low $159.99 (Oct 06, 2026).",
    "url": "https://www.amazon.com/dp/B0FRPH94LH",
-   "note": "ATL · lowest $151.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
+   "note": "ATL · lowest $151.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 10:33am PT Oct 7",
    "image": "assets/B0FRPH94LH.jpg"
   },
   {
@@ -2054,7 +2054,7 @@
    "atlPrice": 39.99,
    "atlNote": "Matches camel Amazon low $39.99 (Oct 02, 2026).",
    "url": "https://www.amazon.com/dp/B0FHJ7TKZM",
-   "note": "ATL · lowest $39.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
+   "note": "ATL · lowest $39.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 10:33am PT Oct 7",
    "image": "assets/B0FHJ7TKZM.jpg"
   },
   {
@@ -2234,7 +2234,7 @@
    "atlPrice": 159.95,
    "atlNote": "Matches camel Amazon low $159.95 (Apr 26, 2025).",
    "url": "https://www.amazon.com/dp/B096KY3SKD",
-   "note": "ATL · lowest $159.95 · live-checked 11:01pm PT Oct 6",
+   "note": "ATL · lowest $159.95 · buy box now Sur La Table (not Amazon), no deal badge · live-checked 10:33am PT Oct 7",
    "image": "assets/B096KY3SKD.jpg"
   },
   {
@@ -2426,7 +2426,7 @@
    "badge": "Prime Big Deal",
    "atl": "near-atl",
    "url": "https://www.amazon.com/dp/B07XXPHQZK",
-   "note": "Near-ATL · Camel Amazon low $15.96",
+   "note": "Near-ATL one-time $16.80 · S&S $15.96 matches ATL $15.96 · Prime Big Deal · live-checked 10:33am PT Oct 7",
    "atlStatus": "near-atl",
    "atlPrice": 15.96,
    "atlNote": "Near-ATL: +$0.84 vs Camel Amazon low $15.96 (Jun 23, 2026). Sold by Amazon.",
@@ -2540,14 +2540,14 @@
   {
    "id": "B0FDBMXSVK",
    "name": "Cascade Platinum Plus Pods, Lemon, 62ct",
-   "price": 16.59,
+   "price": 17.46,
    "list": 17.46,
    "category": "household",
    "badge": "Prime Big Deal",
-   "atl": "atl",
+   "atl": "near-atl",
    "url": "https://www.amazon.com/dp/B0FDBMXSVK",
-   "note": "ATL $16.71 · Amazon sold",
-   "atlStatus": "atl",
+   "note": "Near-ATL one-time $17.46 (+4.5% vs ATL $16.71) · S&S $16.59 beats ATL · Prime Big Deal · live-checked 10:33am PT Oct 7",
+   "atlStatus": "near-atl",
    "atlPrice": 16.71,
    "atlNote": "S&S $16.59 at/under Camel Amazon low $16.71. Buy box $17.46. Sold by Amazon.",
    "image": "assets/B0FDBMXSVK.jpg"
