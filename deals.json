@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:27:00-07:00",
+  "updatedAt": "2026-10-07T09:38:00-07:00",
   "eventEnds": "2026-10-07T23:59:00-07:00",
   "deals": [
     {
@@ -560,17 +560,17 @@
     {
       "id": "B0D4SBLLRJ",
       "name": "Olaplex Wash & Shine Kit",
-      "price": 47.6,
+      "price": 45.22,
       "list": 68.0,
       "category": "beauty",
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0D4SBLLRJ",
-      "note": "Near-ATL · Camel Amazon lowest $44.80",
+      "note": "Near-ATL · S&S price · Camel Amazon lowest $44.80",
       "image": "assets/B0D4SBLLRJ.webp",
       "atlStatus": "near-atl",
       "atlPrice": 44.8,
-      "atlNote": "Camel Amazon ATL $44.80 (Prime Day 2025); live $47.60 (+6.3%)"
+      "atlNote": "Camel Amazon ATL $44.80 (Prime Day 2025); signed-in S&S $45.22 (+0.9%)"
     },
     {
       "id": "B0B4DXHCRR",
