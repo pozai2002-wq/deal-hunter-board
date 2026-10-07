@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T23:02:00-07:00",
+ "updatedAt": "2026-10-06T23:50:37-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -940,7 +940,7 @@
    "atlPrice": 79.99,
    "atlNote": "New Amazon low: $79.99 beats camel Amazon low $84.99 (Nov 02, 2025).",
    "url": "https://www.amazon.com/dp/B0CVDZ7WYW",
-   "note": "ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0CVDZ7WYW.jpg"
   },
   {
@@ -985,7 +985,7 @@
    "atlPrice": 119.99,
    "atlNote": "New Amazon low: $119.99 beats camel Amazon low $132.94 (Jun 23, 2026).",
    "url": "https://www.amazon.com/dp/B0B16JFF54",
-   "note": "ATL · lowest $119.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $119.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0B16JFF54.jpg"
   },
   {
@@ -1015,7 +1015,7 @@
    "atlPrice": 113.99,
    "atlNote": "New Amazon low: $113.99 beats camel Amazon low $132.99 (Sep 15, 2026).",
    "url": "https://www.amazon.com/dp/B0GMZ5Z9G4",
-   "note": "ATL · lowest $113.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $113.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0GMZ5Z9G4.jpg"
   },
   {
@@ -1028,9 +1028,9 @@
    "atl": "near-atl",
    "atlStatus": "near-atl",
    "atlPrice": 79.99,
-   "atlNote": "Near-ATL: +$5.00 (6.3%) vs camel Amazon low $79.99 (Nov 23, 2023).",
+   "atlNote": "Near-ATL: +$5.00 (6.3%) vs Amazon low $79.99. Buy box now sold by Woot (3P), not Amazon.",
    "url": "https://www.amazon.com/dp/B09C13WYDX",
-   "note": "Near-ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B09C13WYDX.jpg"
   },
   {
@@ -1066,31 +1066,31 @@
   {
    "id": "B0DZH6371B",
    "name": "Keychron K4 HE 96% Wireless Hall Effect",
-   "price": 108.0,
+   "price": 107.99,
    "list": 135.0,
    "category": "keyboards",
    "badge": "Big Deal Days",
-   "atl": "near-atl",
-   "atlStatus": "near-atl",
+   "atl": "atl",
+   "atlStatus": "atl",
    "atlPrice": 107.99,
-   "atlNote": "Near-ATL: +$0.01 (0.0%) vs camel 3P new - Keychron store (no camel Amazon row) low $107.99.",
+   "atlNote": "ATL: matches Amazon low $107.99",
    "url": "https://www.amazon.com/dp/B0DZH6371B",
-   "note": "Near-ATL · lowest $107.99 · price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $107.99 · price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0DZH6371B.jpg"
   },
   {
    "id": "B0CR14LGX6",
    "name": "Keychron V1 Max 75% QMK Wireless",
-   "price": 80.0,
+   "price": 79.99,
    "list": 100.0,
    "category": "keyboards",
    "badge": "Big Deal Days",
-   "atl": "near-atl",
-   "atlStatus": "near-atl",
+   "atl": "atl",
+   "atlStatus": "atl",
    "atlPrice": 79.99,
-   "atlNote": "Near-ATL: +$0.01 (0.0%) vs camel 3P new - Keychron store (no camel Amazon row) low $79.99.",
+   "atlNote": "ATL: matches Amazon low $79.99",
    "url": "https://www.amazon.com/dp/B0CR14LGX6",
-   "note": "Near-ATL · lowest $79.99 · price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $79.99 · price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0CR14LGX6.jpg"
   },
   {
@@ -1105,7 +1105,7 @@
    "atlPrice": 75.99,
    "atlNote": "Near-ATL: +$4.00 (5.3%) vs camel Amazon low $75.99 (Jun 24, 2026).",
    "url": "https://www.amazon.com/dp/B0FB21526X",
-   "note": "Near-ATL · lowest $75.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $75.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0FB21526X.jpg"
   },
   {
@@ -1165,22 +1165,22 @@
    "atlPrice": 113.99,
    "atlNote": "New Amazon low: $113.99 beats camel Amazon low $119.99 (Oct 06, 2026).",
    "url": "https://www.amazon.com/dp/B0FRT1K56P",
-   "note": "ATL · lowest $113.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $113.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0FRT1K56P.jpg"
   },
   {
    "id": "B0FJ2XTB3Q",
    "name": "Sony INZONE Mouse-A",
-   "price": 98.0,
+   "price": 99.99,
    "list": null,
    "category": "electronics",
    "badge": "Big Deal Days",
-   "atl": "atl",
-   "atlStatus": "atl",
+   "atl": "near-atl",
+   "atlStatus": "near-atl",
    "atlPrice": 98.0,
-   "atlNote": "New Amazon low: $98.00 beats camel Amazon low $99.99 (Oct 05, 2026).",
+   "atlNote": "Near-ATL: +$1.99 (2.0%) vs Amazon low $98.00",
    "url": "https://www.amazon.com/dp/B0FJ2XTB3Q",
-   "note": "ATL · lowest $98.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $98.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0FJ2XTB3Q.jpg"
   },
   {
@@ -1210,7 +1210,7 @@
    "atlPrice": 79.99,
    "atlNote": "Matches camel Amazon low $79.99 (Jun 21, 2026).",
    "url": "https://www.amazon.com/dp/B0DL6WHJ1W",
-   "note": "ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0DL6WHJ1W.jpg"
   },
   {
@@ -1240,7 +1240,7 @@
    "atlPrice": 139.99,
    "atlNote": "Near-ATL: +$2.49 (1.8%) vs camel Amazon low $139.99 (Dec 31, 2023).",
    "url": "https://www.amazon.com/dp/B09NBWWP79",
-   "note": "Near-ATL · lowest $139.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $139.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B09NBWWP79.jpg"
   },
   {
@@ -1255,7 +1255,7 @@
    "atlPrice": 113.04,
    "atlNote": "New Amazon low: $113.04 beats camel 3P new - FLEXISPOT (brand seller, no camel Amazon row) low $118.99.",
    "url": "https://www.amazon.com/dp/B0DJ2YT4XV",
-   "note": "ATL · lowest $113.04 · price per Yahoo/SFGate FlexiSpot BDD post (amazon.com $113.04); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $113.04 · price per Yahoo/SFGate FlexiSpot BDD post (amazon.com $113.04); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0DJ2YT4XV.jpg"
   },
   {
@@ -1300,7 +1300,7 @@
    "atlPrice": 151.99,
    "atlNote": "New Amazon low: $151.99 beats camel Amazon low $159.99 (Oct 06, 2026).",
    "url": "https://www.amazon.com/dp/B0FRPH94LH",
-   "note": "ATL · lowest $151.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $151.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0FRPH94LH.jpg"
   },
   {
@@ -1360,7 +1360,7 @@
    "atlPrice": 89.96,
    "atlNote": "Near-ATL: +$0.03 (0.0%) vs camel Amazon low $89.96 (Feb 12, 2026).",
    "url": "https://www.amazon.com/dp/B08141GQQG",
-   "note": "Near-ATL · lowest $89.96 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $89.96 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B08141GQQG.jpg"
   },
   {
@@ -1375,7 +1375,7 @@
    "atlPrice": 99.24,
    "atlNote": "New Amazon low: $99.24 beats camel Amazon low $104.47 (Oct 06, 2026).",
    "url": "https://www.amazon.com/dp/B0D9MCK4R8",
-   "note": "ATL · lowest $99.24 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $99.24 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0D9MCK4R8.jpg"
   },
   {
@@ -1525,7 +1525,7 @@
    "atlPrice": 99.95,
    "atlNote": "Matches camel Amazon low $99.95 (Jul 12, 2025).",
    "url": "https://www.amazon.com/dp/B0CT6D6Q27",
-   "note": "ATL · lowest $99.95 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $99.95 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0CT6D6Q27.jpg"
   },
   {
@@ -1555,7 +1555,7 @@
    "atlPrice": 99.95,
    "atlNote": "Matches camel Amazon low $99.95 (Oct 06, 2026).",
    "url": "https://www.amazon.com/dp/B0D3631X1B",
-   "note": "ATL · lowest $99.95 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $99.95 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0D3631X1B.jpg"
   },
   {
@@ -1570,7 +1570,7 @@
    "atlPrice": 158.0,
    "atlNote": "Matches camel Amazon low $158.00 (Oct 05, 2026).",
    "url": "https://www.amazon.com/dp/B0G4SHD925",
-   "note": "ATL · lowest $158.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $158.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0G4SHD925.jpg"
   },
   {
@@ -1600,7 +1600,7 @@
    "atlPrice": 89.99,
    "atlNote": "Matches camel Amazon low $89.99 (Jul 08, 2025).",
    "url": "https://www.amazon.com/dp/B0DBHPZLCC",
-   "note": "ATL · lowest $89.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $89.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0DBHPZLCC.jpg"
   },
   {
@@ -1660,7 +1660,7 @@
    "atlPrice": 69.99,
    "atlNote": "Near-ATL: +$5.99 (8.6%) vs camel 3P new - AnkerDirect (lower than Amazon row $77.99) low $69.99.",
    "url": "https://www.amazon.com/dp/B0DCZ2QFV8",
-   "note": "Near-ATL · lowest $69.99 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $69.99 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0DCZ2QFV8.jpg"
   },
   {
@@ -1690,7 +1690,7 @@
    "atlPrice": 132.99,
    "atlNote": "New Amazon low: $132.99 beats camel Amazon low $139.99 (Oct 06, 2026).",
    "url": "https://www.amazon.com/dp/B0BYC52LYP",
-   "note": "ATL · lowest $132.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $132.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0BYC52LYP.jpg"
   },
   {
@@ -1720,7 +1720,7 @@
    "atlPrice": 84.99,
    "atlNote": "Matches camel 3P new - AnkerDirect (no camel Amazon row) low $84.99.",
    "url": "https://www.amazon.com/dp/B0CQ53RVTW",
-   "note": "ATL · lowest $84.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $84.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0CQ53RVTW.jpg"
   },
   {
@@ -1750,7 +1750,7 @@
    "atlPrice": 153.0,
    "atlNote": "Matches camel Amazon low $153.00 (Jun 22, 2026).",
    "url": "https://www.amazon.com/dp/B0F8PNFBTL",
-   "note": "ATL · lowest $153.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $153.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0F8PNFBTL.jpg"
   },
   {
@@ -1801,16 +1801,16 @@
   {
    "id": "B0F936ZL31",
    "name": "Anker Prime Power Bank 20K 220W (Wukong Ed.)",
-   "price": 140.0,
+   "price": 139.99,
    "list": 200.0,
    "category": "electronics",
    "badge": "Big Deal Days",
    "atl": "near-atl",
    "atlStatus": "near-atl",
    "atlPrice": 132.99,
-   "atlNote": "Near-ATL: +$7.01 (5.3%) vs camel 3P new - AnkerDirect (no camel Amazon row) low $132.99.",
+   "atlNote": "Near-ATL: +$7.00 (5.3%) vs Amazon low $132.99",
    "url": "https://www.amazon.com/dp/B0F936ZL31",
-   "note": "Near-ATL · lowest $132.99 · price per 9to5Toys Anker fall Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $132.99 · price per 9to5Toys Anker fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0F936ZL31.jpg"
   },
   {
@@ -1891,16 +1891,16 @@
   {
    "id": "B08HRWWCTR",
    "name": "Google Nest Thermostat",
-   "price": 89.99,
+   "price": 85.49,
    "list": 129.99,
    "category": "home",
    "badge": "Big Deal Days",
    "atl": "near-atl",
    "atlStatus": "near-atl",
    "atlPrice": 84.99,
-   "atlNote": "Near-ATL: +$5.00 (5.9%) vs camel Amazon low $84.99 (Oct 10, 2024).",
+   "atlNote": "Near-ATL: +$0.50 (0.6%) vs camel Amazon low $84.99 (Oct 10, 2024).",
    "url": "https://www.amazon.com/dp/B08HRWWCTR",
-   "note": "Near-ATL · lowest $84.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $84.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:45pm PT Oct 6 ($85.49)",
    "image": "assets/B08HRWWCTR.jpg"
   },
   {
@@ -1990,7 +1990,7 @@
    "atlPrice": 113.99,
    "atlNote": "New Amazon low: $113.99 beats camel 3P new - eufy/AnkerDirect (no camel Amazon row) low $119.98.",
    "url": "https://www.amazon.com/dp/B0DDTRM7DJ",
-   "note": "ATL · lowest $113.99 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $113.99 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0DDTRM7DJ.jpg"
   },
   {
@@ -2140,7 +2140,7 @@
    "atlPrice": 119.99,
    "atlNote": "Matches camel Amazon low $119.99 (Jul 02, 2026).",
    "url": "https://www.amazon.com/dp/B0D1GW9GMJ",
-   "note": "ATL · lowest $119.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $119.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0D1GW9GMJ.jpg"
   },
   {
@@ -2155,7 +2155,7 @@
    "atlPrice": 149.0,
    "atlNote": "Near-ATL: +$0.99 (0.7%) vs camel Amazon low $149.00 (May 07, 2025).",
    "url": "https://www.amazon.com/dp/B0CL12QNNK",
-   "note": "Near-ATL · lowest $149.00 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $149.00 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0CL12QNNK.jpg"
   },
   {
@@ -2236,16 +2236,16 @@
   {
    "id": "B0DYNZJ3G1",
    "name": "Our Place Titanium Always Pan Pro 10.6\"",
-   "price": 108.0,
+   "price": 107.99,
    "list": 179.0,
    "category": "kitchen",
    "badge": "Big Deal Days",
    "atl": "atl",
    "atlStatus": "atl",
-   "atlPrice": 108.0,
-   "atlNote": "New Amazon low: $108.00 beats camel 3P new - Our Place (no camel Amazon row) low $115.00.",
+   "atlPrice": 107.99,
+   "atlNote": "ATL: $107.99 is a new Amazon low (prior low $108.00). Sold by Our Place (brand store).",
    "url": "https://www.amazon.com/dp/B0DYNZJ3G1",
-   "note": "ATL · lowest $108.00 · price per Business Insider Prime Day kitchen deals (Oct 2026); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $107.99 · price per Business Insider Prime Day kitchen deals (Oct 2026); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
    "image": "assets/B0DYNZJ3G1.jpg"
   },
   {
