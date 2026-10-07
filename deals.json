@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T23:50:37-07:00",
+ "updatedAt": "2026-10-06T23:55:30-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1171,16 +1171,16 @@
   {
    "id": "B0FJ2XTB3Q",
    "name": "Sony INZONE Mouse-A",
-   "price": 99.99,
+   "price": 98.0,
    "list": null,
    "category": "electronics",
    "badge": "Big Deal Days",
-   "atl": "near-atl",
-   "atlStatus": "near-atl",
+   "atl": "atl",
+   "atlStatus": "atl",
    "atlPrice": 98.0,
-   "atlNote": "Near-ATL: +$1.99 (2.0%) vs Amazon low $98.00",
+   "atlNote": "ATL: at Amazon low $98.00",
    "url": "https://www.amazon.com/dp/B0FJ2XTB3Q",
-   "note": "Near-ATL · lowest $98.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
+   "note": "ATL · lowest $98.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:55pm PT Oct 6 ($99.99 -> $98.00)",
    "image": "assets/B0FJ2XTB3Q.jpg"
   },
   {
@@ -1270,7 +1270,7 @@
    "atlPrice": 19.99,
    "atlNote": "Matches camel Amazon low $19.99 (Feb 17, 2025).",
    "url": "https://www.amazon.com/dp/B0CKR7B9T9",
-   "note": "ATL · lowest $19.99 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $19.99 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
    "image": "assets/B0CKR7B9T9.jpg"
   },
   {
@@ -1330,7 +1330,7 @@
    "atlPrice": 39.98,
    "atlNote": "New Amazon low: $39.98 beats camel Amazon low $41.03 (Aug 29, 2026).",
    "url": "https://www.amazon.com/dp/B074NBSF9N",
-   "note": "ATL · lowest $39.98 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $39.98 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
    "image": "assets/B074NBSF9N.jpg"
   },
   {
@@ -1930,7 +1930,7 @@
    "atlPrice": 39.99,
    "atlNote": "Matches camel Amazon low $39.99 (Oct 02, 2026).",
    "url": "https://www.amazon.com/dp/B0FHJ7TKZM",
-   "note": "ATL · lowest $39.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $39.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
    "image": "assets/B0FHJ7TKZM.jpg"
   },
   {
@@ -1945,7 +1945,7 @@
    "atlPrice": 39.99,
    "atlNote": "Matches camel Amazon low $39.99 (Oct 02, 2026).",
    "url": "https://www.amazon.com/dp/B0C5QRZ47P",
-   "note": "ATL · lowest $39.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $39.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
    "image": "assets/B0C5QRZ47P.jpg"
   },
   {
