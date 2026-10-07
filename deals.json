@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T06:59:00-07:00",
+ "updatedAt": "2026-10-07T08:49:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1145,16 +1145,16 @@
   {
    "id": "B0B6XZLNHQ",
    "name": "Razer DeathAdder V3 Pro",
-   "price": 64.99,
-   "list": null,
+   "price": 61.74,
+   "list": 149.99,
    "category": "electronics",
-   "badge": "Big Deal Days",
+   "badge": "Prime Big Deal",
    "atl": "atl",
    "atlStatus": "atl",
-   "atlPrice": 64.99,
-   "atlNote": "New Amazon low: $64.99 beats camel Amazon low $66.49 (Jun 24, 2026).",
+   "atlPrice": 61.74,
+   "atlNote": "New Amazon low: $61.74 beats camel Amazon low $64.99 (Oct 6, 2026). Shipped and sold by Amazon.",
    "url": "https://www.amazon.com/dp/B0B6XZLNHQ",
-   "note": "ATL · lowest $64.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $61.74 · Prime Big Deal, sold by Amazon (browser-confirmed 8:48am PT Oct 7)",
    "image": "assets/B0B6XZLNHQ.jpg"
   },
   {
