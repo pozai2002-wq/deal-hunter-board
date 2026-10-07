@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T11:45:00-07:00",
+ "updatedAt": "2026-10-07T12:06:13-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -708,21 +708,6 @@
    "image": "assets/B0DCVQBMVP.webp"
   },
   {
-   "id": "B09XS7JWHH",
-   "name": "Sony WH-1000XM5 (Black)",
-   "price": 198.0,
-   "list": 399.99,
-   "category": "headphones",
-   "badge": "Prime Big Deal",
-   "atl": "atl",
-   "atlStatus": "atl",
-   "atlPrice": 198.0,
-   "atlNote": "Camel Amazon ATL $198 (Jun 23 / Oct 5 2026); Gizmodo: Amazon 365-day low",
-   "url": "https://www.amazon.com/dp/B09XS7JWHH",
-   "note": "ATL $198 · Camel Amazon · −50%",
-   "image": "assets/B09XS7JWHH.webp"
-  },
-  {
    "id": "B0G6HLWS6Q",
    "name": "Sony WF-1000XM6 (Black)",
    "price": 258.0,
@@ -931,21 +916,6 @@
    "url": "https://www.amazon.com/dp/B0DWXF15GF",
    "note": "ATL $249.99 · Basketprice · −55%",
    "image": "assets/B0DWXF15GF.webp"
-  },
-  {
-   "id": "B0G8HN99MK",
-   "name": "KitchenAid 5.5-Qt Bowl-Lift Stand Mixer (KSM55)",
-   "price": 299.99,
-   "list": 499.99,
-   "category": "kitchen",
-   "badge": "Prime Big Deal",
-   "atl": "near-atl",
-   "atlStatus": "near-atl",
-   "atlPrice": 284.99,
-   "atlNote": "Thrifle Amazon low $284.99 (Jun 27 2026); Basketprice short-window low $299.99 Oct 6 (+5.3%)",
-   "url": "https://www.amazon.com/dp/B0G8HN99MK",
-   "note": "Near-ATL · lowest $284.99 · ⚠ Temporarily out of stock on Amazon at 10:45am PT Oct 7 (no buy box)",
-   "image": "assets/B0G8HN99MK.webp"
   },
   {
    "id": "B078NN17K3",
@@ -2486,10 +2456,10 @@
    "badge": "Prime Big Deal",
    "atl": "atl",
    "url": "https://www.amazon.com/dp/B0D16L5F2M",
-   "note": "ATL $11.90 · sold by Medicube & Aprilskin",
+   "note": "ATL $11.90 · sold by Medicube & Aprilskin · S&S $11.30 (signed-in 12:05pm PT Oct 7)",
    "atlStatus": "atl",
    "atlPrice": 11.9,
-   "atlNote": "ATL: live $11.90 matches reported lowest / Camel 3P low $11.90. Sold by Medicube & Aprilskin, shipped by Amazon (thin Amazon-sold history).",
+   "atlNote": "ATL: live $11.90 matches reported lowest / Camel 3P low $11.90. Sold by Medicube & Aprilskin, shipped by Amazon (thin Amazon-sold history). S&S now $11.30, below the $11.90 low.",
    "image": "assets/B0D16L5F2M.jpg"
   },
   {
