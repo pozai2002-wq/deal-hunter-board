@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:46:00-07:00",
+  "updatedAt": "2026-10-07T00:49:00-07:00",
   "eventEnds": "2026-10-07T23:59:00-07:00",
   "deals": [
     {
@@ -11,7 +11,7 @@
       "badge": "Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0FC9DTDJ3",
-      "note": "Near-ATL \u00b7 lowest $149.99 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "Near-ATL · lowest $149.99 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0FC9DTDJ3.jpg",
       "atlStatus": "near-atl",
       "atlPrice": 149.99,
@@ -26,7 +26,7 @@
       "badge": "Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0HJBCX8VS",
-      "note": "ATL \u00b7 lowest $349.99 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $349.99 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0HJBCX8VS.jpg",
       "atlStatus": "atl",
       "atlPrice": 349.99,
@@ -41,7 +41,7 @@
       "badge": "Limited time deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B07JVD78TT",
-      "note": "Near-ATL \u00b7 lowest $399.00 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "Near-ATL · lowest $399.00 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B07JVD78TT.jpg",
       "atlStatus": "near-atl",
       "atlPrice": 399.0,
@@ -56,7 +56,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0DSVVJXK5",
-      "note": "ATL \u00b7 lowest $309.99 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $309.99 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0DSVVJXK5.jpg",
       "atlStatus": "atl",
       "atlPrice": 309.99,
@@ -71,7 +71,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0F9NK4M7Q",
-      "note": "ATL \u00b7 lowest $99.99 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $99.99 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0F9NK4M7Q.jpg",
       "atlStatus": "atl",
       "atlPrice": 99.99,
@@ -86,7 +86,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0DDQ71B9P",
-      "note": "ATL \u00b7 lowest $59.99 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $59.99 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0DDQ71B9P.jpg",
       "atlStatus": "atl",
       "atlPrice": 59.99,
@@ -101,7 +101,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0FCLC1RMM",
-      "note": "Near-ATL \u00b7 lowest $104.49 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "Near-ATL · lowest $104.49 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0FCLC1RMM.jpg",
       "atlStatus": "near-atl",
       "atlPrice": 104.49,
@@ -116,7 +116,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0FHWK3W1S",
-      "note": "ATL \u00b7 lowest $99.73 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $99.73 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0FHWK3W1S.jpg",
       "atlStatus": "atl",
       "atlPrice": 99.73,
@@ -131,7 +131,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0DFCH3C4W",
-      "note": "ATL \u00b7 lowest $59.99 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $59.99 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0DFCH3C4W.jpg",
       "atlStatus": "atl",
       "atlPrice": 59.99,
@@ -146,7 +146,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0FFGZH2S2",
-      "note": "ATL \u00b7 lowest $55.99 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $55.99 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0FFGZH2S2.jpg",
       "atlStatus": "atl",
       "atlPrice": 55.99,
@@ -161,7 +161,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0C4YTB56H",
-      "note": "ATL \u00b7 lowest $33.24 \u00b7 live-checked 10:04pm PT Oct 6",
+      "note": "ATL · lowest $33.24 · live-checked 10:04pm PT Oct 6",
       "image": "assets/B0C4YTB56H.jpg",
       "atlStatus": "atl",
       "atlPrice": 33.24,
@@ -176,11 +176,11 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0BF7DXLBF",
-      "note": "Near-ATL \u00b7 lowest ~$136 \u00b7 \u26a0 Amazon buy box unavailable at 8:47pm PT (deal may be sold out)",
+      "note": "Near-ATL · lowest ~$136 · ⚠ Amazon buy box unavailable at 8:47pm PT (deal may be sold out)",
       "image": "assets/B0BF7DXLBF.webp",
       "atlStatus": "near-atl",
       "atlPrice": 136.0,
-      "atlNote": "Camel/Keepa Amazon ATL ~$136\u2013137 mid-2025; live $143.95 (~+5\u20136%)"
+      "atlNote": "Camel/Keepa Amazon ATL ~$136–137 mid-2025; live $143.95 (~+5–6%)"
     },
     {
       "id": "B0FWK41WF2",
@@ -191,7 +191,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0FWK41WF2",
-      "note": "NEW ATL $429.99 (was $449.99 ATL) \u00b7 Prime Big Deal \u221246%",
+      "note": "NEW ATL $429.99 (was $449.99 ATL) · Prime Big Deal −46%",
       "image": "assets/B0FWK41WF2.webp",
       "atlStatus": "atl",
       "atlPrice": 429.99,
@@ -206,7 +206,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0DT7RRFHR",
-      "note": "ATL $368 \u00b7 Keepa Amazon / Slickdeals lowest ever",
+      "note": "ATL $368 · Keepa Amazon / Slickdeals lowest ever",
       "image": "assets/B0DT7RRFHR.webp",
       "atlStatus": "atl",
       "atlPrice": 368.0,
@@ -221,7 +221,7 @@
       "badge": "Limited time deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0F3PT1VBL",
-      "note": "ATL $378 \u00b7 Camel Amazon",
+      "note": "ATL $378 · Camel Amazon",
       "image": "assets/B0F3PT1VBL.webp",
       "atlStatus": "atl",
       "atlPrice": 378.0,
@@ -236,7 +236,7 @@
       "badge": "Limited time deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0GSS4SGZR",
-      "note": "Near-ATL \u00b7 Camel Amazon lowest $399",
+      "note": "Near-ATL · Camel Amazon lowest $399",
       "image": "assets/B0GSS4SGZR.webp",
       "atlStatus": "near-atl",
       "atlPrice": 399.0,
@@ -251,7 +251,7 @@
       "badge": "Limited time deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0D4Z9C562",
-      "note": "Near-ATL \u00b7 Camel/Basketprice lowest $151.13",
+      "note": "Near-ATL · Camel/Basketprice lowest $151.13",
       "image": "assets/B0D4Z9C562.webp",
       "atlStatus": "near-atl",
       "atlPrice": 151.13,
@@ -266,7 +266,7 @@
       "badge": "Limited time deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-      "note": "Near-ATL \u00b7 Camel Amazon lowest $169",
+      "note": "Near-ATL · Camel Amazon lowest $169",
       "image": "assets/B0FQFB8FMG.webp",
       "atlStatus": "near-atl",
       "atlPrice": 169.0,
@@ -281,7 +281,7 @@
       "badge": "Limited time deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B01N5UPTZS",
-      "note": "Near-ATL \u00b7 Camel Amazon lowest $299.95",
+      "note": "Near-ATL · Camel Amazon lowest $299.95",
       "image": "assets/B01N5UPTZS.webp",
       "atlStatus": "near-atl",
       "atlPrice": 299.95,
@@ -296,11 +296,11 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0GMPVKDWS",
-      "note": "ATL $784.99 \u00b7 new low vs prior ~$799\u2013$850",
+      "note": "ATL $784.99 · new low vs prior ~$799–$850",
       "image": "assets/B0GMPVKDWS.webp",
       "atlStatus": "atl",
       "atlPrice": 784.99,
-      "atlNote": "New Amazon ATL vs prior Keepa/Camel floors ~$799\u2013$850"
+      "atlNote": "New Amazon ATL vs prior Keepa/Camel floors ~$799–$850"
     },
     {
       "id": "B0HB8PKJG4",
@@ -311,7 +311,7 @@
       "badge": "Limited time deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0HB8PKJG4",
-      "note": "ATL $1298 \u00b7 Camel/Basketprice",
+      "note": "ATL $1298 · Camel/Basketprice",
       "image": "assets/B0HB8PKJG4.webp",
       "atlStatus": "atl",
       "atlPrice": 1298.0,
@@ -326,7 +326,7 @@
       "badge": "Discount",
       "atl": "atl",
       "url": "https://www.amazon.com/Apple-Watch-GPS-42mm-Smartwatch/dp/B0HJ9ZXCSD",
-      "note": "ATL $349.99 \u00b7 Camel/iClarified",
+      "note": "ATL $349.99 · Camel/iClarified",
       "image": "assets/B0HJ9ZXCSD.webp",
       "atlStatus": "atl",
       "atlPrice": 349.99,
@@ -341,7 +341,7 @@
       "badge": "Limited time deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0HGGJZ92H",
-      "note": "Near-ATL \u00b7 ATL was $769 (earlier Oct 6) \u00b7 now $779.99",
+      "note": "Near-ATL · ATL was $769 (earlier Oct 6) · now $779.99",
       "image": "assets/B0HGGJZ92H.webp",
       "atlStatus": "near-atl",
       "atlPrice": 769.0,
@@ -356,7 +356,7 @@
       "badge": "Limited time deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B08FCGH2RL",
-      "note": "ATL $89.99 \u00b7 Camel Amazon",
+      "note": "ATL $89.99 · Camel Amazon",
       "image": "assets/B08FCGH2RL.webp",
       "atlStatus": "atl",
       "atlPrice": 89.99,
@@ -371,7 +371,7 @@
       "badge": "Discount",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0GZW1BYJF",
-      "note": "ATL $79 \u00b7 Camel/Basketprice",
+      "note": "ATL $79 · Camel/Basketprice",
       "image": "assets/B0GZW1BYJF.webp",
       "atlStatus": "atl",
       "atlPrice": 79.0,
@@ -386,11 +386,11 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0CRF6ZCKZ",
-      "note": "ATL $32.40 \u00b7 below prior Camel Amazon $37.80",
+      "note": "ATL $32.40 · below prior Camel Amazon $37.80",
       "image": "assets/B0CRF6ZCKZ.webp",
       "atlStatus": "atl",
       "atlPrice": 32.4,
-      "atlNote": "Live $32.40 below prior Camel Amazon ATL $37.80 (Apr 2025) \u2192 new Amazon ATL"
+      "atlNote": "Live $32.40 below prior Camel Amazon ATL $37.80 (Apr 2025) → new Amazon ATL"
     },
     {
       "id": "B0FLTGFKPR",
@@ -401,11 +401,11 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0FLTGFKPR",
-      "note": "ATL $29.45 \u00b7 below prior Camel Amazon $30.80",
+      "note": "ATL $29.45 · below prior Camel Amazon $30.80",
       "image": "assets/B0FLTGFKPR.webp",
       "atlStatus": "atl",
       "atlPrice": 29.45,
-      "atlNote": "Live $29.45 below prior Camel Amazon ATL $30.80 \u2192 new Amazon ATL"
+      "atlNote": "Live $29.45 below prior Camel Amazon ATL $30.80 → new Amazon ATL"
     },
     {
       "id": "B0B2RM68G2",
@@ -416,7 +416,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0B2RM68G2",
-      "note": "ATL $12.99 \u00b7 below prior Camel Amazon-sold $15.20",
+      "note": "ATL $12.99 · below prior Camel Amazon-sold $15.20",
       "image": "assets/B0B2RM68G2.webp",
       "atlStatus": "atl",
       "atlPrice": 12.99,
@@ -431,7 +431,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0D4SBLLRJ",
-      "note": "Near-ATL \u00b7 Camel Amazon lowest $44.80",
+      "note": "Near-ATL · Camel Amazon lowest $44.80",
       "image": "assets/B0D4SBLLRJ.webp",
       "atlStatus": "near-atl",
       "atlPrice": 44.8,
@@ -446,7 +446,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0B4DXHCRR",
-      "note": "ATL $29.25 \u00b7 lowest vs Camel flat ~$38",
+      "note": "ATL $29.25 · lowest vs Camel flat ~$38",
       "image": "assets/B0B4DXHCRR.webp",
       "atlStatus": "atl",
       "atlPrice": 29.25,
@@ -462,9 +462,9 @@
       "atl": "near-atl",
       "atlStatus": "near-atl",
       "atlPrice": 53.34,
-      "atlNote": "Slickdeals: K4 V2 hit $53.34 on Woot (Jul 4 2026, expired); live Amazon $55.99 (+5%) \u2014 near-ATL. No Camel/Keepa ATL confirmed for this ASIN this pass.",
+      "atlNote": "Slickdeals: K4 V2 hit $53.34 on Woot (Jul 4 2026, expired); live Amazon $55.99 (+5%) — near-ATL. No Camel/Keepa ATL confirmed for this ASIN this pass.",
       "url": "https://www.amazon.com/dp/B07WS7KSGT",
-      "note": "Near-ATL \u00b7 lowest was $53.34 (Woot Jul 2026), now $55.99 \u00b7 \u221230% Prime Big Deal",
+      "note": "Near-ATL · lowest was $53.34 (Woot Jul 2026), now $55.99 · −30% Prime Big Deal",
       "image": "assets/B07WS7KSGT.webp"
     },
     {
@@ -477,9 +477,9 @@
       "atl": "near-atl",
       "atlStatus": "near-atl",
       "atlPrice": 79.0,
-      "atlNote": "pricehistory.app Node75 family Amazon low $79 (Aug 15 2026) on sibling ASIN B0G24YWPPM; this ASIN B0G254BWVG live $74.96 \u2014 at/below known family floor (exact-ASIN Camel/Keepa ATL not confirmed).",
+      "atlNote": "pricehistory.app Node75 family Amazon low $79 (Aug 15 2026) on sibling ASIN B0G24YWPPM; this ASIN B0G254BWVG live $74.96 — at/below known family floor (exact-ASIN Camel/Keepa ATL not confirmed).",
       "url": "https://www.amazon.com/dp/B0G254BWVG",
-      "note": "Near-ATL \u00b7 best-known Node75 Amazon low $79 (Aug 2026), now $74.96 \u00b7 \u221225%",
+      "note": "Near-ATL · best-known Node75 Amazon low $79 (Aug 2026), now $74.96 · −25%",
       "image": "assets/B0G254BWVG.webp"
     },
     {
@@ -492,9 +492,9 @@
       "atl": "near-atl",
       "atlStatus": "near-atl",
       "atlPrice": 89.99,
-      "atlNote": "pricehistory.app Amazon low $89.99 (Nov 19 2025; also Jun 24 / Aug 3 2026 drops); live $95.99 (+6.7%) \u2014 near-ATL \u00b7 ASIN B0D62Z6BJY.",
+      "atlNote": "pricehistory.app Amazon low $89.99 (Nov 19 2025; also Jun 24 / Aug 3 2026 drops); live $95.99 (+6.7%) — near-ATL · ASIN B0D62Z6BJY.",
       "url": "https://www.amazon.com/dp/B0D62Z6BJY",
-      "note": "Near-ATL \u00b7 lowest was $89.99 (Nov 2025 / mid-2026), now $95.99 \u00b7 \u221220%",
+      "note": "Near-ATL · lowest was $89.99 (Nov 2025 / mid-2026), now $95.99 · −20%",
       "image": "assets/B0D62Z6BJY.webp"
     },
     {
@@ -507,9 +507,9 @@
       "atl": "atl",
       "atlStatus": "atl",
       "atlPrice": 103.99,
-      "atlNote": "The Verge (Aug 10 2026): $103.99 matches the lowest price seen several times this year; live Amazon $103.99 (Keychron Store) \u2014 ATL. Related wood-frame ASINs tracked ~$111.99 on pricehistory.",
+      "atlNote": "The Verge (Aug 10 2026): $103.99 matches the lowest price seen several times this year; live Amazon $103.99 (Keychron Store) — ATL. Related wood-frame ASINs tracked ~$111.99 on pricehistory.",
       "url": "https://www.amazon.com/dp/B0DCVQBMVP",
-      "note": "ATL $103.99 \u00b7 The Verge lowest-seen (Aug 2026) \u00b7 \u221220%",
+      "note": "ATL $103.99 · The Verge lowest-seen (Aug 2026) · −20%",
       "image": "assets/B0DCVQBMVP.webp"
     },
     {
@@ -524,7 +524,7 @@
       "atlPrice": 198.0,
       "atlNote": "Camel Amazon ATL $198 (Jun 23 / Oct 5 2026); Gizmodo: Amazon 365-day low",
       "url": "https://www.amazon.com/dp/B09XS7JWHH",
-      "note": "ATL $198 \u00b7 Camel Amazon \u00b7 \u221250%",
+      "note": "ATL $198 · Camel Amazon · −50%",
       "image": "assets/B09XS7JWHH.webp"
     },
     {
@@ -539,7 +539,7 @@
       "atlPrice": 258.0,
       "atlNote": "Camel Amazon ATL $258 (Oct 5 2026); SoundGuys 2026-low (beats prior $265.99)",
       "url": "https://www.amazon.com/dp/B0G6HLWS6Q",
-      "note": "ATL $258 \u00b7 Camel / SoundGuys \u00b7 \u221222%",
+      "note": "ATL $258 · Camel / SoundGuys · −22%",
       "image": "assets/B0G6HLWS6Q.webp"
     },
     {
@@ -554,7 +554,7 @@
       "atlPrice": 170.05,
       "atlNote": "9to5Toys: Amazon all-time low on Olive (Oct 6 2026); prior Olive low $189 (Sep 13)",
       "url": "https://www.amazon.com/dp/B0H7WXNBNV",
-      "note": "ATL $170.05 \u00b7 Olive Amazon ATL (9to5Toys) \u00b7 \u221226%",
+      "note": "ATL $170.05 · Olive Amazon ATL (9to5Toys) · −26%",
       "image": "assets/B0H7WXNBNV.webp"
     },
     {
@@ -569,7 +569,7 @@
       "atlPrice": 209.99,
       "atlNote": "pricehistory.app Amazon ATL $209.99 (Oct 6 2026); PCWorld: brand-new all-time low",
       "url": "https://www.amazon.com/dp/B0GMWYYRQL",
-      "note": "ATL $209.99 \u00b7 PCWorld / pricehistory \u00b7 \u221230%",
+      "note": "ATL $209.99 · PCWorld / pricehistory · −30%",
       "image": "assets/B0GMWYYRQL.webp"
     },
     {
@@ -584,7 +584,7 @@
       "atlPrice": 72.99,
       "atlNote": "Basketprice recorded Amazon ATL $72.99 (Sep 23 / Oct 6 2026); Technobezz below prior $76.99 floor",
       "url": "https://www.amazon.com/dp/B0GVTPKJVT",
-      "note": "ATL $72.99 \u00b7 Basketprice \u00b7 \u221253%",
+      "note": "ATL $72.99 · Basketprice · −53%",
       "image": "assets/B0GVTPKJVT.webp"
     },
     {
@@ -599,7 +599,7 @@
       "atlPrice": 23.99,
       "atlNote": "PopSci/Slickdeals/9to5Toys Oct 6 2026 $23.99; beats prior family ATL $25.99 (Camel/pricehistory B0G1TC6D3N Jul 2026)",
       "url": "https://www.amazon.com/dp/B0G1MRLXMV",
-      "note": "ATL $23.99 \u00b7 new low vs prior $25.99 \u00b7 \u221240%",
+      "note": "ATL $23.99 · new low vs prior $25.99 · −40%",
       "image": "assets/B0G1MRLXMV.webp"
     },
     {
@@ -614,7 +614,7 @@
       "atlPrice": 45.99,
       "atlNote": "Android Authority Oct 6 2026: best deal this year at $45.99; beats 9to5Toys prior low $47.50 (Jun Prime Day)",
       "url": "https://www.amazon.com/dp/B0FB8FSBJS",
-      "note": "ATL $45.99 \u00b7 beats prior $47.50 \u00b7 \u221234%",
+      "note": "ATL $45.99 · beats prior $47.50 · −34%",
       "image": "assets/B0FB8FSBJS.webp"
     },
     {
@@ -629,7 +629,7 @@
       "atlPrice": 384.99,
       "atlNote": "Basketprice Amazon ATL $384.99 (Oct 5 2026); pricehistory lowest $384.99; PC Guide best price",
       "url": "https://www.amazon.com/dp/B0GDSC8K2H",
-      "note": "ATL $384.99 \u00b7 Basketprice \u00b7 \u221236%",
+      "note": "ATL $384.99 · Basketprice · −36%",
       "image": "assets/B0GDSC8K2H.webp"
     },
     {
@@ -644,7 +644,7 @@
       "atlPrice": 469.99,
       "atlNote": "eDealinfo/BuildCores Amazon $469.99 (Oct 6 2026) beats Camel Amazon prior ATL $484.99 (Jun 24 2026)",
       "url": "https://www.amazon.com/dp/B0CZSGWLD5",
-      "note": "ATL $469.99 \u00b7 new low vs Camel $484.99 \u00b7 \u221228%",
+      "note": "ATL $469.99 · new low vs Camel $484.99 · −28%",
       "image": "assets/B0CZSGWLD5.webp"
     },
     {
@@ -659,7 +659,7 @@
       "atlPrice": 349.99,
       "atlNote": "Smartprix Amazon $349.99 (Oct 2026) beats prior Camel/Yahoo record-low $379 (Jul 2026)",
       "url": "https://www.amazon.com/dp/B0FNQ4B2Z2",
-      "note": "ATL $349.99 \u00b7 below prior $379 floor \u00b7 \u221222%",
+      "note": "ATL $349.99 · below prior $379 floor · −22%",
       "image": "assets/B0FNQ4B2Z2.webp"
     },
     {
@@ -674,7 +674,7 @@
       "atlPrice": 249.99,
       "atlNote": "Camel/Slickdeals Amazon ATL $249.99 (Dec 10 2025); live $264.99 (+6.0%)",
       "url": "https://www.amazon.com/dp/B0F1GFD44G",
-      "note": "Near-ATL \u00b7 lowest $249.99 \u00b7 now $264.99 \u00b7 \u221224%",
+      "note": "Near-ATL · lowest $249.99 · now $264.99 · −24%",
       "image": "assets/B0F1GFD44G.webp"
     },
     {
@@ -689,7 +689,7 @@
       "atlPrice": 129.0,
       "atlNote": "pricehistory.app Amazon ATL $129 (Sep 28 2026); Camel/Slickdeals match",
       "url": "https://www.amazon.com/dp/B0C7YJ7WML",
-      "note": "ATL $129 \u00b7 pricehistory \u00b7 \u221244%",
+      "note": "ATL $129 · pricehistory · −44%",
       "image": "assets/B0C7YJ7WML.webp"
     },
     {
@@ -704,7 +704,7 @@
       "atlPrice": 479.0,
       "atlNote": "9to5Toys: Christmas ATL $479; live $499.99 (+4.4%) is second-lowest tracked (May/Oct 2026)",
       "url": "https://www.amazon.com/dp/B0GQD9Y72Z",
-      "note": "Near-ATL \u00b7 lowest $479 \u00b7 now $499.99 \u00b7 \u221230%",
+      "note": "Near-ATL · lowest $479 · now $499.99 · −30%",
       "image": "assets/B0GQD9Y72Z.webp"
     },
     {
@@ -719,7 +719,7 @@
       "atlPrice": 249.99,
       "atlNote": "Camel Amazon ATL $249.99 (first Nov 20 2025; recurring); PopSci Prime Big Deal $249.99",
       "url": "https://www.amazon.com/dp/B09T4YZGQR",
-      "note": "ATL $249.99 \u00b7 Camel Amazon \u00b7 \u221258%",
+      "note": "ATL $249.99 · Camel Amazon · −58%",
       "image": "assets/B09T4YZGQR.webp"
     },
     {
@@ -732,9 +732,9 @@
       "atl": "atl",
       "atlStatus": "atl",
       "atlPrice": 249.99,
-      "atlNote": "Basketprice Amazon ATL $249.99 (Oct 6 2026) for white ASIN B0DWXF15GF; beats prior ~$259\u2013$279 floors",
+      "atlNote": "Basketprice Amazon ATL $249.99 (Oct 6 2026) for white ASIN B0DWXF15GF; beats prior ~$259–$279 floors",
       "url": "https://www.amazon.com/dp/B0DWXF15GF",
-      "note": "ATL $249.99 \u00b7 Basketprice \u00b7 \u221255%",
+      "note": "ATL $249.99 · Basketprice · −55%",
       "image": "assets/B0DWXF15GF.webp"
     },
     {
@@ -749,7 +749,7 @@
       "atlPrice": 284.99,
       "atlNote": "Thrifle Amazon low $284.99 (Jun 27 2026); Basketprice short-window low $299.99 Oct 6 (+5.3%)",
       "url": "https://www.amazon.com/dp/B0G8HN99MK",
-      "note": "Near-ATL \u00b7 lowest $284.99 \u00b7 now $299.99 \u00b7 \u221240%",
+      "note": "Near-ATL · lowest $284.99 · now $299.99 · −40%",
       "image": "assets/B0G8HN99MK.webp"
     },
     {
@@ -764,7 +764,7 @@
       "atlPrice": 93.97,
       "atlNote": "Camel Amazon ATL $93.97 (Jul 12, 2025); live $99.99 (+6%)",
       "url": "https://www.amazon.com/dp/B078NN17K3",
-      "note": "Near-ATL \u00b7 lowest $93.97 \u00b7 now $99.99 \u00b7 \u221252%",
+      "note": "Near-ATL · lowest $93.97 · now $99.99 · −52%",
       "image": "assets/B078NN17K3.webp"
     },
     {
@@ -779,7 +779,7 @@
       "atlPrice": 47.49,
       "atlNote": "Camel Amazon ATL $47.49 (Jun 23 2026) ASIN B0DR8V899R; live $49.99 (+5.3%); ScreenRant BDD $49.99",
       "url": "https://www.amazon.com/dp/B0DR8V899R",
-      "note": "Near-ATL \u00b7 lowest $47.49 \u00b7 now $49.99 \u00b7 \u221217%",
+      "note": "Near-ATL · lowest $47.49 · now $49.99 · −17%",
       "image": "assets/B0DR8V899R.webp"
     },
     {
@@ -794,7 +794,7 @@
       "atlPrice": 49.99,
       "atlNote": "Camel Amazon ATL $49.99 (Mar 3 2025) B07T5SY43L; live $54.62 (+9.3%)",
       "url": "https://www.amazon.com/dp/B07T5SY43L",
-      "note": "Near-ATL \u00b7 lowest $49.99 \u00b7 now $54.62 \u00b7 \u221222%",
+      "note": "Near-ATL · lowest $49.99 · now $54.62 · −22%",
       "image": "assets/B07T5SY43L.webp"
     },
     {
@@ -809,7 +809,7 @@
       "atlPrice": 189.0,
       "atlNote": "9to5Toys (Oct 5 2026) Amazon all-time low $189; WIRED/PopSci/Verge confirm lowest ever. Live $189 sold by Amazon (9:05pm PT Oct 6)",
       "url": "https://www.amazon.com/dp/B0F1Z88FBT",
-      "note": "ATL $189 \u00b7 first time under $213 \u00b7 \u221237%",
+      "note": "ATL $189 · first time under $213 · −37%",
       "image": "assets/B0F1Z88FBT.jpg"
     },
     {
@@ -824,7 +824,7 @@
       "atlPrice": 170.99,
       "atlNote": "New low: live $170.99 (Amazon-sold, 9:05pm PT Oct 6) beats pricehistory.app prior Amazon ATL $179.90 (Dec 2 2025) for B0CDH415QV",
       "url": "https://www.amazon.com/dp/B0CDH415QV",
-      "note": "ATL $170.99 \u00b7 beats prior low $179.90 \u00b7 \u221243%",
+      "note": "ATL $170.99 · beats prior low $179.90 · −43%",
       "image": "assets/B0CDH415QV.jpg"
     },
     {
@@ -837,14 +837,14 @@
       "atl": "atl",
       "atlStatus": "atl",
       "atlPrice": 379.99,
-      "atlNote": "New Amazon ATL $379.99 \u2014 beats prior record low $399.99 (Technobezz price history, Oct 6 2026); camel shows $515.75 (stale during camel outage)",
+      "atlNote": "New Amazon ATL $379.99 — beats prior record low $399.99 (Technobezz price history, Oct 6 2026); camel shows $515.75 (stale during camel outage)",
       "url": "https://www.amazon.com/dp/B0GHYRZ1JW",
-      "note": "ATL $379.99 \u00b7 PCIe 5.0, 14,900 MB/s \u00b7 sold by Amazon",
+      "note": "ATL $379.99 · PCIe 5.0, 14,900 MB/s · sold by Amazon",
       "image": "assets/B0GHYRZ1JW.webp"
     },
     {
       "id": "B0FC6J5CMG",
-      "name": "Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition",
+      "name": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition",
       "price": 39.88,
       "list": 69.99,
       "category": "electronics",
@@ -854,12 +854,12 @@
       "atlPrice": 39.88,
       "atlNote": "camel Amazon ATL $39.88 (Oct 6 2026) = today's price",
       "url": "https://www.amazon.com/dp/B0FC6J5CMG",
-      "note": "ATL $39.88 \u00b7 gaming \u00b7 physical Switch 2 Edition \u00b7 back in stock, ships from and sold by Amazon.com (live-checked 12:35am PT Oct 7)",
+      "note": "ATL $39.88 · gaming · physical Switch 2 Edition · back in stock, ships from and sold by Amazon.com (live-checked 12:35am PT Oct 7)",
       "image": "assets/B0FC6J5CMG.webp"
     },
     {
       "id": "B0G6K77S3J",
-      "name": "PRAGMATA \u2013 Nintendo Switch 2",
+      "name": "PRAGMATA – Nintendo Switch 2",
       "price": 39.99,
       "list": 59.99,
       "category": "electronics",
@@ -867,9 +867,9 @@
       "atl": "atl",
       "atlStatus": "atl",
       "atlPrice": 39.99,
-      "atlNote": "New Amazon ATL $39.99 \u2014 below camel prior low $49.99 (Sep 13 2026); 9to5Toys calls it the all-time low",
+      "atlNote": "New Amazon ATL $39.99 — below camel prior low $49.99 (Sep 13 2026); 9to5Toys calls it the all-time low",
       "url": "https://www.amazon.com/dp/B0G6K77S3J",
-      "note": "ATL $39.99 \u00b7 gaming \u00b7 Capcom \u00b7 sold by Amazon",
+      "note": "ATL $39.99 · gaming · Capcom · sold by Amazon",
       "image": "assets/B0G6K77S3J.webp"
     },
     {
@@ -884,7 +884,7 @@
       "atlPrice": 149.99,
       "atlNote": "Matches Amazon ATL $149.99 (camelcamelcamel, Oct 2 2026)",
       "url": "https://www.amazon.com/dp/B0DC91H3JK",
-      "note": "ATL $149.99 \u00b7 smart display \u00b7 sold by Amazon",
+      "note": "ATL $149.99 · smart display · sold by Amazon",
       "image": "assets/B0DC91H3JK.jpg"
     },
     {
@@ -899,7 +899,7 @@
       "atlPrice": 193.84,
       "atlNote": "Near ATL: Amazon ATL $193.84 (camelcamelcamel, Aug 18 2026); live is +$5.16 (+2.7%)",
       "url": "https://www.amazon.com/dp/B0B89P16MC",
-      "note": "Near-ATL \u00b7 ATL $193.84 \u00b7 hair styler for her \u00b7 sold by Amazon",
+      "note": "Near-ATL · ATL $193.84 · hair styler for her · sold by Amazon",
       "image": "assets/B0B89P16MC.jpg"
     },
     {
@@ -914,7 +914,7 @@
       "atlPrice": 359.99,
       "atlNote": "New Amazon low: $359.99 beats camel Amazon low $417.13 (Oct 03, 2026).",
       "url": "https://www.amazon.com/dp/B0GMX4CN7X",
-      "note": "ATL \u00b7 lowest $359.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $359.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0GMX4CN7X.jpg"
     },
     {
@@ -929,7 +929,7 @@
       "atlPrice": 379.99,
       "atlNote": "Matches camel Amazon low $379.99 (Oct 04, 2026).",
       "url": "https://www.amazon.com/dp/B0DVQQGMCZ",
-      "note": "ATL \u00b7 lowest $379.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $379.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0DVQQGMCZ.jpg"
     },
     {
@@ -944,7 +944,7 @@
       "atlPrice": 79.99,
       "atlNote": "New Amazon low: $79.99 beats camel Amazon low $84.99 (Nov 02, 2025).",
       "url": "https://www.amazon.com/dp/B0CVDZ7WYW",
-      "note": "ATL \u00b7 lowest $79.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0CVDZ7WYW.jpg"
     },
     {
@@ -959,7 +959,7 @@
       "atlPrice": 228.0,
       "atlNote": "Matches camel Amazon low $228.00 (Oct 05, 2026).",
       "url": "https://www.amazon.com/dp/B0FJ2X9S8B",
-      "note": "ATL \u00b7 lowest $228.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $228.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0FJ2X9S8B.jpg"
     },
     {
@@ -974,7 +974,7 @@
       "atlPrice": 159.99,
       "atlNote": "Matches camel Amazon low $159.99 (Jun 23, 2026).",
       "url": "https://www.amazon.com/dp/B0BQBSW9SG",
-      "note": "ATL \u00b7 lowest $159.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $159.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0BQBSW9SG.jpg"
     },
     {
@@ -989,7 +989,7 @@
       "atlPrice": 119.99,
       "atlNote": "New Amazon low: $119.99 beats camel Amazon low $132.94 (Jun 23, 2026).",
       "url": "https://www.amazon.com/dp/B0B16JFF54",
-      "note": "ATL \u00b7 lowest $119.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $119.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0B16JFF54.jpg"
     },
     {
@@ -1004,7 +1004,7 @@
       "atlPrice": 180.49,
       "atlNote": "New Amazon low: $180.49 beats camel Amazon low $189.99 (Oct 05, 2026).",
       "url": "https://www.amazon.com/dp/B0FRPHGXJZ",
-      "note": "ATL \u00b7 lowest $180.49 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $180.49 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0FRPHGXJZ.jpg"
     },
     {
@@ -1019,7 +1019,7 @@
       "atlPrice": 113.99,
       "atlNote": "New Amazon low: $113.99 beats camel Amazon low $132.99 (Sep 15, 2026).",
       "url": "https://www.amazon.com/dp/B0GMZ5Z9G4",
-      "note": "ATL \u00b7 lowest $113.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $113.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0GMZ5Z9G4.jpg"
     },
     {
@@ -1034,7 +1034,7 @@
       "atlPrice": 79.99,
       "atlNote": "Near-ATL: +$5.00 (6.3%) vs Amazon low $79.99. Buy box now sold by Woot (3P), not Amazon.",
       "url": "https://www.amazon.com/dp/B09C13WYDX",
-      "note": "Near-ATL \u00b7 lowest $79.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "Near-ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B09C13WYDX.jpg"
     },
     {
@@ -1049,7 +1049,7 @@
       "atlPrice": 142.49,
       "atlNote": "Near-ATL: +$7.50 (5.3%) vs camel Amazon low $142.49 (Jun 24, 2026).",
       "url": "https://www.amazon.com/dp/B0D1G53TZ2",
-      "note": "Near-ATL \u00b7 lowest $142.49 \u00b7 price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL · lowest $142.49 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0D1G53TZ2.jpg"
     },
     {
@@ -1064,7 +1064,7 @@
       "atlPrice": 191.99,
       "atlNote": "Matches camel 3P new - Keychron store (no camel Amazon row) low $191.99.",
       "url": "https://www.amazon.com/dp/B0DRYPCTWY",
-      "note": "ATL \u00b7 lowest $191.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $191.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0DRYPCTWY.jpg"
     },
     {
@@ -1079,7 +1079,7 @@
       "atlPrice": 107.99,
       "atlNote": "ATL: matches Amazon low $107.99",
       "url": "https://www.amazon.com/dp/B0DZH6371B",
-      "note": "ATL \u00b7 lowest $107.99 \u00b7 price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $107.99 · price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0DZH6371B.jpg"
     },
     {
@@ -1094,7 +1094,7 @@
       "atlPrice": 79.99,
       "atlNote": "ATL: matches Amazon low $79.99",
       "url": "https://www.amazon.com/dp/B0CR14LGX6",
-      "note": "ATL \u00b7 lowest $79.99 \u00b7 price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $79.99 · price per 9to5Toys Keychron fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0CR14LGX6.jpg"
     },
     {
@@ -1109,7 +1109,7 @@
       "atlPrice": 75.99,
       "atlNote": "Near-ATL: +$4.00 (5.3%) vs camel Amazon low $75.99 (Jun 24, 2026).",
       "url": "https://www.amazon.com/dp/B0FB21526X",
-      "note": "Near-ATL \u00b7 lowest $75.99 \u00b7 price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "Near-ATL · lowest $75.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0FB21526X.jpg"
     },
     {
@@ -1124,7 +1124,7 @@
       "atlPrice": 28.48,
       "atlNote": "Matches camel Amazon low $28.48 (Nov 20, 2025).",
       "url": "https://www.amazon.com/dp/B086PDW7BB",
-      "note": "ATL \u00b7 lowest $28.48 \u00b7 price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $28.48 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B086PDW7BB.jpg"
     },
     {
@@ -1139,7 +1139,7 @@
       "atlPrice": 49.39,
       "atlNote": "Near-ATL: +$4.59 (9.3%) vs camel Amazon low $49.39 (Nov 14, 2024).",
       "url": "https://www.amazon.com/dp/B07NSSPV9S",
-      "note": "Near-ATL \u00b7 lowest $49.39 \u00b7 price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL · lowest $49.39 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B07NSSPV9S.jpg"
     },
     {
@@ -1154,7 +1154,7 @@
       "atlPrice": 64.99,
       "atlNote": "New Amazon low: $64.99 beats camel Amazon low $66.49 (Jun 24, 2026).",
       "url": "https://www.amazon.com/dp/B0B6XZLNHQ",
-      "note": "ATL \u00b7 lowest $64.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $64.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0B6XZLNHQ.jpg"
     },
     {
@@ -1169,7 +1169,7 @@
       "atlPrice": 113.99,
       "atlNote": "New Amazon low: $113.99 beats camel Amazon low $119.99 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0FRT1K56P",
-      "note": "ATL \u00b7 lowest $113.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $113.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0FRT1K56P.jpg"
     },
     {
@@ -1184,7 +1184,7 @@
       "atlPrice": 98.0,
       "atlNote": "ATL: at Amazon low $98.00",
       "url": "https://www.amazon.com/dp/B0FJ2XTB3Q",
-      "note": "ATL \u00b7 lowest $98.00 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:55pm PT Oct 6 ($99.99 -> $98.00)",
+      "note": "ATL · lowest $98.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:55pm PT Oct 6 ($99.99 -> $98.00)",
       "image": "assets/B0FJ2XTB3Q.jpg"
     },
     {
@@ -1199,7 +1199,7 @@
       "atlPrice": 59.99,
       "atlNote": "Matches camel Amazon low $59.99 (Jun 21, 2026).",
       "url": "https://www.amazon.com/dp/B0DL72PK1P",
-      "note": "ATL \u00b7 lowest $59.99 \u00b7 price per PCGuide BDD sidebar ($59) + camel cur $59.99; added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $59.99 · price per PCGuide BDD sidebar ($59) + camel cur $59.99; added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0DL72PK1P.jpg"
     },
     {
@@ -1214,7 +1214,7 @@
       "atlPrice": 79.99,
       "atlNote": "Matches camel Amazon low $79.99 (Jun 21, 2026).",
       "url": "https://www.amazon.com/dp/B0DL6WHJ1W",
-      "note": "ATL \u00b7 lowest $79.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $79.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0DL6WHJ1W.jpg"
     },
     {
@@ -1229,7 +1229,7 @@
       "atlPrice": 161.49,
       "atlNote": "Near-ATL: +$8.07 (5.0%) vs camel Amazon low $161.49 (Jun 23, 2026).",
       "url": "https://www.amazon.com/dp/B0BFJ4CRKD",
-      "note": "Near-ATL \u00b7 lowest $161.49 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $161.49 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0BFJ4CRKD.jpg"
     },
     {
@@ -1244,7 +1244,7 @@
       "atlPrice": 139.99,
       "atlNote": "Near-ATL: +$2.49 (1.8%) vs camel Amazon low $139.99 (Dec 31, 2023).",
       "url": "https://www.amazon.com/dp/B09NBWWP79",
-      "note": "Near-ATL \u00b7 lowest $139.99 \u00b7 price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "Near-ATL · lowest $139.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B09NBWWP79.jpg"
     },
     {
@@ -1259,7 +1259,7 @@
       "atlPrice": 113.04,
       "atlNote": "New Amazon low: $113.04 beats camel 3P new - FLEXISPOT (brand seller, no camel Amazon row) low $118.99.",
       "url": "https://www.amazon.com/dp/B0DJ2YT4XV",
-      "note": "ATL \u00b7 lowest $113.04 \u00b7 price per Yahoo/SFGate FlexiSpot BDD post (amazon.com $113.04); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $113.04 · price per Yahoo/SFGate FlexiSpot BDD post (amazon.com $113.04); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0DJ2YT4XV.jpg"
     },
     {
@@ -1274,7 +1274,7 @@
       "atlPrice": 19.99,
       "atlNote": "Matches camel Amazon low $19.99 (Feb 17, 2025).",
       "url": "https://www.amazon.com/dp/B0CKR7B9T9",
-      "note": "ATL \u00b7 lowest $19.99 \u00b7 price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart \u00b7 live-checked 11:55pm PT Oct 6",
+      "note": "ATL · lowest $19.99 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
       "image": "assets/B0CKR7B9T9.jpg"
     },
     {
@@ -1289,7 +1289,7 @@
       "atlPrice": 49.99,
       "atlNote": "Matches camel Amazon low $49.99 (Jun 18, 2026).",
       "url": "https://www.amazon.com/dp/B0CMFX748Y",
-      "note": "ATL \u00b7 lowest $49.99 \u00b7 price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $49.99 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0CMFX748Y.jpg"
     },
     {
@@ -1304,7 +1304,7 @@
       "atlPrice": 151.99,
       "atlNote": "New Amazon low: $151.99 beats camel Amazon low $159.99 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0FRPH94LH",
-      "note": "ATL \u00b7 lowest $151.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $151.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0FRPH94LH.jpg"
     },
     {
@@ -1319,7 +1319,7 @@
       "atlPrice": 168.0,
       "atlNote": "Matches camel Amazon low $168.00 (Oct 05, 2026).",
       "url": "https://www.amazon.com/dp/B0CJH3DJ36",
-      "note": "ATL \u00b7 lowest $168.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $168.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0CJH3DJ36.jpg"
     },
     {
@@ -1334,7 +1334,7 @@
       "atlPrice": 39.98,
       "atlNote": "New Amazon low: $39.98 beats camel Amazon low $41.03 (Aug 29, 2026).",
       "url": "https://www.amazon.com/dp/B074NBSF9N",
-      "note": "ATL \u00b7 lowest $39.98 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart \u00b7 live-checked 11:55pm PT Oct 6",
+      "note": "ATL · lowest $39.98 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
       "image": "assets/B074NBSF9N.jpg"
     },
     {
@@ -1349,7 +1349,7 @@
       "atlPrice": 149.99,
       "atlNote": "Matches camel Amazon low $149.99 (Dec 12, 2025).",
       "url": "https://www.amazon.com/dp/B09BXZKNDB",
-      "note": "ATL \u00b7 lowest $149.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $149.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B09BXZKNDB.jpg"
     },
     {
@@ -1364,7 +1364,7 @@
       "atlPrice": 89.96,
       "atlNote": "Near-ATL: +$0.03 (0.0%) vs camel Amazon low $89.96 (Feb 12, 2026).",
       "url": "https://www.amazon.com/dp/B08141GQQG",
-      "note": "Near-ATL \u00b7 lowest $89.96 \u00b7 price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "Near-ATL · lowest $89.96 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B08141GQQG.jpg"
     },
     {
@@ -1379,7 +1379,7 @@
       "atlPrice": 99.24,
       "atlNote": "New Amazon low: $99.24 beats camel Amazon low $104.47 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0D9MCK4R8",
-      "note": "ATL \u00b7 lowest $99.24 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $99.24 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0D9MCK4R8.jpg"
     },
     {
@@ -1394,7 +1394,7 @@
       "atlPrice": 49.99,
       "atlNote": "Matches camel Amazon low $49.99 (Oct 04, 2026).",
       "url": "https://www.amazon.com/dp/B0FY9YW365",
-      "note": "ATL \u00b7 lowest $49.99 \u00b7 price per Tom's Guide Switch 2 Prime Day post (Oct 6) ($49) / camel cur $49.99; added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $49.99 · price per Tom's Guide Switch 2 Prime Day post (Oct 6) ($49) / camel cur $49.99; added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0FY9YW365.jpg"
     },
     {
@@ -1409,7 +1409,7 @@
       "atlPrice": 24.0,
       "atlNote": "New Amazon low: $24.00 beats camel Amazon low $29.83 (Jul 06, 2026).",
       "url": "https://www.amazon.com/dp/B0FR6937TP",
-      "note": "ATL \u00b7 lowest $24.00 \u00b7 price per Tom's Guide Switch 2 Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $24.00 · price per Tom's Guide Switch 2 Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0FR6937TP.jpg"
     },
     {
@@ -1424,7 +1424,7 @@
       "atlPrice": 24.0,
       "atlNote": "Near-ATL: $24.26 is +$0.26 vs Amazon low $24.00 (Oct 6, 2026). Now sold by BEST SOURCE 365 (shipped by Amazon), not Amazon.com.",
       "url": "https://www.amazon.com/dp/B0FKVWSM3N",
-      "note": "Near-ATL \u00b7 lowest $24.00 \u00b7 live-checked 12:44am PT Oct 7; 3rd-party seller, shipped by Amazon",
+      "note": "Near-ATL · lowest $24.00 · live-checked 12:44am PT Oct 7; 3rd-party seller, shipped by Amazon",
       "image": "assets/B0FKVWSM3N.jpg"
     },
     {
@@ -1439,7 +1439,7 @@
       "atlPrice": 38.0,
       "atlNote": "New Amazon low: $38.00 beats camel Amazon low $44.71 (Aug 17, 2026).",
       "url": "https://www.amazon.com/dp/B0FQWNGY9F",
-      "note": "ATL \u00b7 lowest $38.00 \u00b7 price per Nintendo Everything/Nintendo Wire BDD ($38); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $38.00 · price per Nintendo Everything/Nintendo Wire BDD ($38); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0FQWNGY9F.jpg"
     },
     {
@@ -1454,7 +1454,7 @@
       "atlPrice": 42.99,
       "atlNote": "New Amazon low: $42.99 beats camel Amazon low $49.94 (Oct 04, 2026).",
       "url": "https://www.amazon.com/dp/B0H2JXTRBY",
-      "note": "ATL \u00b7 lowest $42.99 \u00b7 price per dealnews Prime Big Deal Days tech roundup ($42.99); added 10:55pm PT Oct 6 \u00b7 live-checked $42.99 sold by Amazon, Prime Big Deal (12:35am PT Oct 7)",
+      "note": "ATL · lowest $42.99 · price per dealnews Prime Big Deal Days tech roundup ($42.99); added 10:55pm PT Oct 6 · live-checked $42.99 sold by Amazon, Prime Big Deal (12:35am PT Oct 7)",
       "image": "assets/B0H2JXTRBY.jpg"
     },
     {
@@ -1469,7 +1469,7 @@
       "atlPrice": 28.0,
       "atlNote": "Near-ATL: $28.49 is +$0.49 vs Amazon low $28.00 (Oct 6, 2026). Amazon shows \"365-day low price\". Sold by Amazon.com.",
       "url": "https://www.amazon.com/dp/B0DBJ5BGPH",
-      "note": "Near-ATL \u00b7 lowest $28.00 \u00b7 live-checked 12:44am PT Oct 7",
+      "note": "Near-ATL · lowest $28.00 · live-checked 12:44am PT Oct 7",
       "image": "assets/B0DBJ5BGPH.jpg"
     },
     {
@@ -1484,7 +1484,7 @@
       "atlPrice": 369.0,
       "atlNote": "Matches camel Amazon low $369.00 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0FDKPFLFP",
-      "note": "ATL \u00b7 lowest $369.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $369.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0FDKPFLFP.jpg"
     },
     {
@@ -1499,7 +1499,7 @@
       "atlPrice": 299.99,
       "atlNote": "New Amazon low: $299.99 beats camel Amazon low $399.99 (Aug 25, 2025).",
       "url": "https://www.amazon.com/dp/B0D6B7X4YX",
-      "note": "ATL \u00b7 lowest $299.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $299.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0D6B7X4YX.jpg"
     },
     {
@@ -1514,7 +1514,7 @@
       "atlPrice": 99.95,
       "atlNote": "Matches camel Amazon low $99.95 (Jul 12, 2025).",
       "url": "https://www.amazon.com/dp/B0CT6D6Q27",
-      "note": "ATL \u00b7 lowest $99.95 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $99.95 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0CT6D6Q27.jpg"
     },
     {
@@ -1529,7 +1529,7 @@
       "atlPrice": 49.95,
       "atlNote": "Matches camel Amazon low $49.95 (Jun 23, 2026).",
       "url": "https://www.amazon.com/dp/B0CQ1CH9XT",
-      "note": "ATL \u00b7 lowest $49.95 \u00b7 price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $49.95 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0CQ1CH9XT.jpg"
     },
     {
@@ -1544,7 +1544,7 @@
       "atlPrice": 99.95,
       "atlNote": "Matches camel Amazon low $99.95 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0D3631X1B",
-      "note": "ATL \u00b7 lowest $99.95 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $99.95 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0D3631X1B.jpg"
     },
     {
@@ -1559,7 +1559,7 @@
       "atlPrice": 158.0,
       "atlNote": "Matches camel Amazon low $158.00 (Oct 05, 2026).",
       "url": "https://www.amazon.com/dp/B0G4SHD925",
-      "note": "ATL \u00b7 lowest $158.00 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $158.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0G4SHD925.jpg"
     },
     {
@@ -1574,7 +1574,7 @@
       "atlPrice": 179.95,
       "atlNote": "Matches camel Amazon low $179.95 (Jun 21, 2026).",
       "url": "https://www.amazon.com/dp/B0DT2344N3",
-      "note": "ATL \u00b7 lowest $179.95 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $179.95 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0DT2344N3.jpg"
     },
     {
@@ -1589,7 +1589,7 @@
       "atlPrice": 89.99,
       "atlNote": "Matches camel Amazon low $89.99 (Jul 08, 2025).",
       "url": "https://www.amazon.com/dp/B0DBHPZLCC",
-      "note": "ATL \u00b7 lowest $89.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $89.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0DBHPZLCC.jpg"
     },
     {
@@ -1604,7 +1604,7 @@
       "atlPrice": 75.99,
       "atlNote": "New Amazon low: $75.99 beats camel 3P new - AnkerDirect (no camel Amazon row) low $79.99.",
       "url": "https://www.amazon.com/dp/B0DT4F8JWQ",
-      "note": "ATL \u00b7 lowest $75.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $75.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0DT4F8JWQ.jpg"
     },
     {
@@ -1619,7 +1619,7 @@
       "atlPrice": 37.97,
       "atlNote": "New Amazon low: $37.97 beats camel Amazon low $37.99 (Dec 15, 2025).",
       "url": "https://www.amazon.com/dp/B0C3HCD34R",
-      "note": "ATL \u00b7 lowest $37.97 \u00b7 price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $37.97 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0C3HCD34R.jpg"
     },
     {
@@ -1634,7 +1634,7 @@
       "atlPrice": 49.99,
       "atlNote": "Near-ATL: +$3.19 (6.4%) vs camel 3P new - AnkerDirect (lower than Amazon row $51.75) low $49.99.",
       "url": "https://www.amazon.com/dp/B08HMWZBXC",
-      "note": "Near-ATL \u00b7 lowest $49.99 \u00b7 price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL · lowest $49.99 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B08HMWZBXC.jpg"
     },
     {
@@ -1649,7 +1649,7 @@
       "atlPrice": 69.99,
       "atlNote": "Near-ATL: +$5.99 (8.6%) vs camel 3P new - AnkerDirect (lower than Amazon row $77.99) low $69.99.",
       "url": "https://www.amazon.com/dp/B0DCZ2QFV8",
-      "note": "Near-ATL \u00b7 lowest $69.99 \u00b7 price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "Near-ATL · lowest $69.99 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0DCZ2QFV8.jpg"
     },
     {
@@ -1664,7 +1664,7 @@
       "atlPrice": 179.0,
       "atlNote": "Matches camel Amazon low $179.00 (Jun 19, 2026).",
       "url": "https://www.amazon.com/dp/B0F7HVC62G",
-      "note": "ATL \u00b7 lowest $179.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $179.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0F7HVC62G.jpg"
     },
     {
@@ -1679,7 +1679,7 @@
       "atlPrice": 132.99,
       "atlNote": "New Amazon low: $132.99 beats camel Amazon low $139.99 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0BYC52LYP",
-      "note": "ATL \u00b7 lowest $132.99 \u00b7 price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $132.99 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0BYC52LYP.jpg"
     },
     {
@@ -1694,7 +1694,7 @@
       "atlPrice": 189.99,
       "atlNote": "New Amazon low: $189.99 beats camel Amazon low $199.99 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0BPC85543",
-      "note": "ATL \u00b7 lowest $189.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $189.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0BPC85543.jpg"
     },
     {
@@ -1709,7 +1709,7 @@
       "atlPrice": 84.99,
       "atlNote": "Matches camel 3P new - AnkerDirect (no camel Amazon row) low $84.99.",
       "url": "https://www.amazon.com/dp/B0CQ53RVTW",
-      "note": "ATL \u00b7 lowest $84.99 \u00b7 price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $84.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0CQ53RVTW.jpg"
     },
     {
@@ -1724,7 +1724,7 @@
       "atlPrice": 449.99,
       "atlNote": "Matches camel Amazon low $449.99 (Oct 02, 2026).",
       "url": "https://www.amazon.com/dp/B09HTD7R7W",
-      "note": "ATL \u00b7 lowest $449.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $449.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B09HTD7R7W.jpg"
     },
     {
@@ -1739,7 +1739,7 @@
       "atlPrice": 153.0,
       "atlNote": "Matches camel Amazon low $153.00 (Jun 22, 2026).",
       "url": "https://www.amazon.com/dp/B0F8PNFBTL",
-      "note": "ATL \u00b7 lowest $153.00 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $153.00 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0F8PNFBTL.jpg"
     },
     {
@@ -1754,22 +1754,22 @@
       "atlPrice": 879.0,
       "atlNote": "Near-ATL: +$20.00 (2.3%) vs camel Amazon low $879.00 (Nov 19, 2025).",
       "url": "https://www.amazon.com/dp/B0DFK28LBB",
-      "note": "Near-ATL \u00b7 lowest $879.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $879.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0DFK28LBB.jpg"
     },
     {
       "id": "B0F9L265KF",
       "name": "Anker Prime 3-in-1 Qi2.2 25W Wireless Charging Station",
-      "price": 128.0,
+      "price": 128.23,
       "list": 230.0,
       "category": "electronics",
       "badge": "Big Deal Days",
-      "atl": "atl",
-      "atlStatus": "atl",
+      "atl": "near-atl",
+      "atlStatus": "near-atl",
       "atlPrice": 128.0,
-      "atlNote": "New Amazon low: $128.00 beats camel 3P new - AnkerDirect (no camel Amazon row) low $134.98.",
+      "atlNote": "Near-ATL: $128.23 is +$0.23 vs Amazon low $128.00 (Oct 6, 2026). Amazon labels it a 365-day low. Sold by AnkerDirect, shipped by Amazon.",
       "url": "https://www.amazon.com/dp/B0F9L265KF",
-      "note": "ATL \u00b7 lowest $128.00 \u00b7 price per 9to5Toys Anker fall Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL · lowest $128.00 · live-checked 12:48am PT Oct 7",
       "image": "assets/B0F9L265KF.jpg"
     },
     {
@@ -1784,7 +1784,7 @@
       "atlPrice": 159.99,
       "atlNote": "Near-ATL: +$10.00 (6.3%) vs camel 3P new - AnkerDirect (no camel Amazon row) low $159.99.",
       "url": "https://www.amazon.com/dp/B0F66LNB8D",
-      "note": "Near-ATL \u00b7 lowest $159.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $159.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0F66LNB8D.jpg"
     },
     {
@@ -1799,7 +1799,7 @@
       "atlPrice": 132.99,
       "atlNote": "Near-ATL: +$7.00 (5.3%) vs Amazon low $132.99",
       "url": "https://www.amazon.com/dp/B0F936ZL31",
-      "note": "Near-ATL \u00b7 lowest $132.99 \u00b7 price per 9to5Toys Anker fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "Near-ATL · lowest $132.99 · price per 9to5Toys Anker fall Prime Day post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0F936ZL31.jpg"
     },
     {
@@ -1814,7 +1814,7 @@
       "atlPrice": 55.99,
       "atlNote": "Near-ATL: +$4.01 (7.2%) vs camel 3P new - AnkerDirect (lower than Amazon row $62.99) low $55.99.",
       "url": "https://www.amazon.com/dp/B0D8PTGKSM",
-      "note": "Near-ATL \u00b7 lowest $55.99 \u00b7 price per 9to5Toys Anker fall Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL · lowest $55.99 · price per 9to5Toys Anker fall Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0D8PTGKSM.jpg"
     },
     {
@@ -1829,7 +1829,7 @@
       "atlPrice": 42.74,
       "atlNote": "Near-ATL: +$3.25 (7.6%) vs camel 3P new - AnkerDirect (no camel Amazon row) low $42.74.",
       "url": "https://www.amazon.com/dp/B0D3PN1SFG",
-      "note": "Near-ATL \u00b7 lowest $42.74 \u00b7 price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL · lowest $42.74 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0D3PN1SFG.jpg"
     },
     {
@@ -1844,7 +1844,7 @@
       "atlPrice": 24.29,
       "atlNote": "New Amazon low: $24.29 beats camel Amazon low $24.49 (Aug 04, 2025).",
       "url": "https://www.amazon.com/dp/B0D4Z9RPT8",
-      "note": "ATL \u00b7 lowest $24.29 \u00b7 price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $24.29 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0D4Z9RPT8.jpg"
     },
     {
@@ -1859,7 +1859,7 @@
       "atlPrice": 21.24,
       "atlNote": "New Amazon low: $21.24 beats camel 3P new - UGREEN store (no camel Amazon row) low $22.99.",
       "url": "https://www.amazon.com/dp/B0FJS3P8NT",
-      "note": "ATL \u00b7 lowest $21.24 \u00b7 price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $21.24 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0FJS3P8NT.jpg"
     },
     {
@@ -1874,7 +1874,7 @@
       "atlPrice": 749.0,
       "atlNote": "New Amazon low: $749.00 beats camel Amazon low $883.02 (Sep 12, 2026).",
       "url": "https://www.amazon.com/dp/B0H836MLYT",
-      "note": "ATL \u00b7 lowest $749.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $749.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0H836MLYT.jpg"
     },
     {
@@ -1889,7 +1889,7 @@
       "atlPrice": 84.99,
       "atlNote": "Near-ATL: +$0.50 (0.6%) vs camel Amazon low $84.99 (Oct 10, 2024).",
       "url": "https://www.amazon.com/dp/B08HRWWCTR",
-      "note": "Near-ATL \u00b7 lowest $84.99 \u00b7 price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart \u00b7 live-checked 11:45pm PT Oct 6 ($85.49)",
+      "note": "Near-ATL · lowest $84.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:45pm PT Oct 6 ($85.49)",
       "image": "assets/B08HRWWCTR.jpg"
     },
     {
@@ -1904,7 +1904,7 @@
       "atlPrice": 199.99,
       "atlNote": "Near-ATL: +$10.00 (5.0%) vs camel Amazon low $199.99 (Feb 19, 2026).",
       "url": "https://www.amazon.com/dp/B09XXS48P8",
-      "note": "Near-ATL \u00b7 lowest $199.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $199.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B09XXS48P8.jpg"
     },
     {
@@ -1919,7 +1919,7 @@
       "atlPrice": 39.99,
       "atlNote": "Matches camel Amazon low $39.99 (Oct 02, 2026).",
       "url": "https://www.amazon.com/dp/B0FHJ7TKZM",
-      "note": "ATL \u00b7 lowest $39.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart \u00b7 live-checked 11:55pm PT Oct 6",
+      "note": "ATL · lowest $39.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
       "image": "assets/B0FHJ7TKZM.jpg"
     },
     {
@@ -1934,7 +1934,7 @@
       "atlPrice": 39.99,
       "atlNote": "Matches camel Amazon low $39.99 (Oct 02, 2026).",
       "url": "https://www.amazon.com/dp/B0C5QRZ47P",
-      "note": "ATL \u00b7 lowest $39.99 \u00b7 price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart \u00b7 live-checked 11:55pm PT Oct 6",
+      "note": "ATL · lowest $39.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart · live-checked 11:55pm PT Oct 6",
       "image": "assets/B0C5QRZ47P.jpg"
     },
     {
@@ -1949,7 +1949,7 @@
       "atlPrice": 29.99,
       "atlNote": "Matches camel Amazon low $29.99 (Oct 02, 2026).",
       "url": "https://www.amazon.com/dp/B0CG2VS5FD",
-      "note": "ATL \u00b7 lowest $29.99 \u00b7 price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $29.99 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0CG2VS5FD.jpg"
     },
     {
@@ -1964,7 +1964,7 @@
       "atlPrice": 29.99,
       "atlNote": "Matches camel Amazon low $29.99 (Jun 17, 2026).",
       "url": "https://www.amazon.com/dp/B0DXM9Y8J1",
-      "note": "ATL \u00b7 lowest $29.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $29.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0DXM9Y8J1.jpg"
     },
     {
@@ -1979,7 +1979,7 @@
       "atlPrice": 113.99,
       "atlNote": "New Amazon low: $113.99 beats camel 3P new - eufy/AnkerDirect (no camel Amazon row) low $119.98.",
       "url": "https://www.amazon.com/dp/B0DDTRM7DJ",
-      "note": "ATL \u00b7 lowest $113.99 \u00b7 price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $113.99 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0DDTRM7DJ.jpg"
     },
     {
@@ -1994,7 +1994,7 @@
       "atlPrice": 99.97,
       "atlNote": "New Amazon low: $99.97 beats camel 3P new - eufy/AnkerDirect (no camel Amazon row) low $99.99.",
       "url": "https://www.amazon.com/dp/B0DKF97S22",
-      "note": "ATL \u00b7 lowest $99.97 \u00b7 price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "ATL · lowest $99.97 · price per PopSci Anker BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0DKF97S22.jpg"
     },
     {
@@ -2009,7 +2009,7 @@
       "atlPrice": 249.99,
       "atlNote": "Near-ATL: +$10.00 (4.0%) vs camel 3P new - eufy/AnkerDirect (no camel Amazon row) low $249.99.",
       "url": "https://www.amazon.com/dp/B0GQ3JNJ28",
-      "note": "Near-ATL \u00b7 lowest $249.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $249.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0GQ3JNJ28.jpg"
     },
     {
@@ -2024,7 +2024,7 @@
       "atlPrice": 419.99,
       "atlNote": "Matches camel Amazon low $419.99 (Dec 12, 2025).",
       "url": "https://www.amazon.com/dp/B09HJJN7MS",
-      "note": "ATL \u00b7 lowest $419.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $419.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B09HJJN7MS.jpg"
     },
     {
@@ -2039,7 +2039,7 @@
       "atlPrice": 399.99,
       "atlNote": "New Amazon low: $399.99 beats camel Amazon low $421.05 (Oct 06, 2026).",
       "url": "https://www.amazon.com/dp/B0DYSXC9X9",
-      "note": "ATL \u00b7 lowest $399.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $399.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0DYSXC9X9.jpg"
     },
     {
@@ -2054,7 +2054,7 @@
       "atlPrice": 384.99,
       "atlNote": "New Amazon low: $384.99 beats camel Amazon low $429.99 (Aug 31, 2026).",
       "url": "https://www.amazon.com/dp/B0GGRSMXKN",
-      "note": "ATL \u00b7 lowest $384.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $384.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0GGRSMXKN.jpg"
     },
     {
@@ -2069,7 +2069,7 @@
       "atlPrice": 589.99,
       "atlNote": "Matches camel Amazon low $589.99 (Jun 17, 2026).",
       "url": "https://www.amazon.com/dp/B0GTC14BFW",
-      "note": "ATL \u00b7 lowest $589.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $589.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0GTC14BFW.jpg"
     },
     {
@@ -2084,7 +2084,7 @@
       "atlPrice": 384.0,
       "atlNote": "New Amazon low: $384.00 beats camel Amazon low $434.00 (Jun 29, 2026).",
       "url": "https://www.amazon.com/dp/B0FWHPY1GJ",
-      "note": "ATL \u00b7 lowest $384.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $384.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0FWHPY1GJ.jpg"
     },
     {
@@ -2099,7 +2099,7 @@
       "atlPrice": 159.95,
       "atlNote": "Matches camel Amazon low $159.95 (Apr 26, 2025).",
       "url": "https://www.amazon.com/dp/B096KY3SKD",
-      "note": "ATL \u00b7 lowest $159.95 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "ATL · lowest $159.95 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B096KY3SKD.jpg"
     },
     {
@@ -2114,7 +2114,7 @@
       "atlPrice": 249.0,
       "atlNote": "Near-ATL: +$0.95 (0.4%) vs camel Amazon low $249.00 (Jun 26, 2026).",
       "url": "https://www.amazon.com/dp/B0CT2PT244",
-      "note": "Near-ATL \u00b7 lowest $249.00 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $249.00 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0CT2PT244.jpg"
     },
     {
@@ -2129,7 +2129,7 @@
       "atlPrice": 119.99,
       "atlNote": "Matches camel Amazon low $119.99 (Jul 02, 2026).",
       "url": "https://www.amazon.com/dp/B0D1GW9GMJ",
-      "note": "ATL \u00b7 lowest $119.99 \u00b7 price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $119.99 · price per Technobezz BDD roundup (price-checked ~9pm PT Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0D1GW9GMJ.jpg"
     },
     {
@@ -2144,7 +2144,7 @@
       "atlPrice": 149.0,
       "atlNote": "Near-ATL: +$0.99 (0.7%) vs camel Amazon low $149.00 (May 07, 2025).",
       "url": "https://www.amazon.com/dp/B0CL12QNNK",
-      "note": "Near-ATL \u00b7 lowest $149.00 \u00b7 price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "Near-ATL · lowest $149.00 · price per PopSci BDD live roundup (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0CL12QNNK.jpg"
     },
     {
@@ -2159,7 +2159,7 @@
       "atlPrice": 229.95,
       "atlNote": "Near-ATL: +$20.05 (8.7%) vs camel Amazon low $229.95 (Nov 29, 2025).",
       "url": "https://www.amazon.com/dp/B0FLG6D6Z3",
-      "note": "Near-ATL \u00b7 lowest $229.95 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $229.95 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0FLG6D6Z3.jpg"
     },
     {
@@ -2174,7 +2174,7 @@
       "atlPrice": 279.99,
       "atlNote": "Near-ATL: +$20.01 (7.1%) vs camel Amazon low $279.99 (May 20, 2026).",
       "url": "https://www.amazon.com/dp/B0GWF799TB",
-      "note": "Near-ATL \u00b7 lowest $279.99 \u00b7 live-checked 11:01pm PT Oct 6",
+      "note": "Near-ATL · lowest $279.99 · live-checked 11:01pm PT Oct 6",
       "image": "assets/B0GWF799TB.jpg"
     },
     {
@@ -2189,7 +2189,7 @@
       "atlPrice": 49.97,
       "atlNote": "Near-ATL: +$0.02 (0.0%) vs camel Amazon low $49.97 (Dec 26, 2025).",
       "url": "https://www.amazon.com/dp/B0CNY1F31S",
-      "note": "Near-ATL \u00b7 lowest $49.97 \u00b7 price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+      "note": "Near-ATL · lowest $49.97 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
       "image": "assets/B0CNY1F31S.jpg"
     },
     {
@@ -2204,7 +2204,7 @@
       "atlPrice": 29.99,
       "atlNote": "ATL: matches camel Amazon low $29.99 (Jun 20, 2026).",
       "url": "https://www.amazon.com/dp/B0GS1FPXCK",
-      "note": "ATL \u00b7 lowest $29.99 \u00b7 live-checked $29.99, sold by Amazon.com, Prime Big Deal (12:35am PT Oct 7)",
+      "note": "ATL · lowest $29.99 · live-checked $29.99, sold by Amazon.com, Prime Big Deal (12:35am PT Oct 7)",
       "image": "assets/B0GS1FPXCK.jpg"
     },
     {
@@ -2219,7 +2219,7 @@
       "atlPrice": 107.99,
       "atlNote": "ATL: $107.99 is a new Amazon low (prior low $108.00). Sold by Our Place (brand store).",
       "url": "https://www.amazon.com/dp/B0DYNZJ3G1",
-      "note": "ATL \u00b7 lowest $107.99 \u00b7 price per Business Insider Prime Day kitchen deals (Oct 2026); added 10:55pm PT Oct 6 \u00b7 live-checked 11:50pm PT Oct 6",
+      "note": "ATL · lowest $107.99 · price per Business Insider Prime Day kitchen deals (Oct 2026); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
       "image": "assets/B0DYNZJ3G1.jpg"
     },
     {
@@ -2234,7 +2234,7 @@
       "atlPrice": 34.5,
       "atlNote": "At ATL: $34.50 matches camel 3P new (K18 Hair store) low $34.50 (no camel Amazon row).",
       "url": "https://www.amazon.com/dp/B0F74TDPYJ",
-      "note": "ATL $34.50 \u00b7 dropped from $35.00 at 12:30am PT Oct 7 \u00b7 confirm in cart",
+      "note": "ATL $34.50 · dropped from $35.00 at 12:30am PT Oct 7 · confirm in cart",
       "image": "assets/B0F74TDPYJ.jpg"
     },
     {
@@ -2246,7 +2246,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0DSGJCS47",
-      "note": "ATL $299 \u00b7 matches Camel Amazon low Oct 2 2026",
+      "note": "ATL $299 · matches Camel Amazon low Oct 2 2026",
       "atlStatus": "atl",
       "atlPrice": 299.0,
       "atlNote": "ATL: live $299 equals Camel Amazon low $299 (Oct 2, 2026). Sold by Amazon.",
@@ -2261,7 +2261,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B00SNPCSUY",
-      "note": "Near-ATL \u00b7 Camel Amazon low $9.29",
+      "note": "Near-ATL · Camel Amazon low $9.29",
       "atlStatus": "near-atl",
       "atlPrice": 9.29,
       "atlNote": "Near-ATL: +$1.55 vs Camel Amazon low $9.29 (Nov 22, 2016). Sold by Amazon.",
@@ -2276,7 +2276,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B08MJZYW8P",
-      "note": "Near-ATL \u00b7 Camel Amazon low $33 \u00b7 sold by ELEMIS",
+      "note": "Near-ATL · Camel Amazon low $33 · sold by ELEMIS",
       "atlStatus": "near-atl",
       "atlPrice": 33.0,
       "atlNote": "Near-ATL: +$12 vs Camel Amazon low $33 (Jan 19, 2023). Sold by ELEMIS, shipped by Amazon. Deepest % BDD cut per deal press.",
@@ -2291,7 +2291,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B00949CTQQ",
-      "note": "Near-ATL \u00b7 Camel Amazon low $25.08 \u00b7 sold by Paula's Choice",
+      "note": "Near-ATL · Camel Amazon low $25.08 · sold by Paula's Choice",
       "atlStatus": "near-atl",
       "atlPrice": 25.08,
       "atlNote": "Near-ATL: +$0.82 vs Camel Amazon low $25.08 (Dec 18, 2021). Sold by Paula's Choice, shipped by Amazon.",
@@ -2306,7 +2306,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B07XXPHQZK",
-      "note": "Near-ATL \u00b7 Camel Amazon low $15.96",
+      "note": "Near-ATL · Camel Amazon low $15.96",
       "atlStatus": "near-atl",
       "atlPrice": 15.96,
       "atlNote": "Near-ATL: +$0.84 vs Camel Amazon low $15.96 (Jun 23, 2026). Sold by Amazon.",
@@ -2321,7 +2321,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0D16L5F2M",
-      "note": "ATL $11.90 \u00b7 sold by Medicube & Aprilskin",
+      "note": "ATL $11.90 · sold by Medicube & Aprilskin",
       "atlStatus": "atl",
       "atlPrice": 11.9,
       "atlNote": "ATL: live $11.90 matches reported lowest / Camel 3P low $11.90. Sold by Medicube & Aprilskin, shipped by Amazon (thin Amazon-sold history).",
@@ -2336,7 +2336,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B00E6OIS96",
-      "note": "ATL $13.25 \u00b7 at/under ~$14.24 historic low",
+      "note": "ATL $13.25 · at/under ~$14.24 historic low",
       "atlStatus": "atl",
       "atlPrice": 13.25,
       "atlNote": "ATL: live $13.25 at/under reported ~$14.24 historic Amazon low. Sold by Amazon.",
@@ -2351,10 +2351,10 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B07DY2QRF6",
-      "note": "Near-ATL \u00b7 BDD band ~$12.60 reported",
+      "note": "Near-ATL · BDD band ~$12.60 reported",
       "atlStatus": "near-atl",
       "atlPrice": 12.6,
-      "atlNote": "Near-ATL: +$0.70 vs USA Today\u2013reported BDD low $12.60. Sold by Amazon. Confirm shade on PDP.",
+      "atlNote": "Near-ATL: +$0.70 vs USA Today–reported BDD low $12.60. Sold by Amazon. Confirm shade on PDP.",
       "image": "assets/B07DY2QRF6.jpg"
     },
     {
@@ -2366,7 +2366,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0GD6WQZVJ",
-      "note": "Near-ATL \u00b7 ~$17.25 low \u00b7 sold by Biodance",
+      "note": "Near-ATL · ~$17.25 low · sold by Biodance",
       "atlStatus": "near-atl",
       "atlPrice": 17.25,
       "atlNote": "Near-ATL: +$0.25 vs Camel 3P low $17.25. Sold by Biodance, shipped by Amazon.",
@@ -2381,10 +2381,10 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0GS8YKMN3",
-      "note": "Near-ATL \u00b7 sold by Medicube & Aprilskin",
+      "note": "Near-ATL · sold by Medicube & Aprilskin",
       "atlStatus": "near-atl",
       "atlPrice": 179.0,
-      "atlNote": "Near-ATL: live $179 matches deep BDD cut (~$179\u2013$200 band); Camel 3P low ~$200. Sold by Medicube & Aprilskin, shipped by Amazon.",
+      "atlNote": "Near-ATL: live $179 matches deep BDD cut (~$179–$200 band); Camel 3P low ~$200. Sold by Medicube & Aprilskin, shipped by Amazon.",
       "image": "assets/B0GS8YKMN3.jpg"
     },
     {
@@ -2396,7 +2396,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B07YD3KQ5S",
-      "note": "ATL $11.78 \u00b7 Amazon sold",
+      "note": "ATL $11.78 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 11.78,
       "atlNote": "Buy box $11.53 (S&S $10.95) at/under Camel Amazon low $11.78. Sold by Amazon.",
@@ -2411,7 +2411,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0CM4NY91V",
-      "note": "ATL $29.43 \u00b7 Amazon sold",
+      "note": "ATL $29.43 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 29.43,
       "atlNote": "S&S $25.05 under Camel Amazon low $29.43. Buy box $27.83 without S&S. Sold by Amazon.",
@@ -2426,7 +2426,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0FDBMXSVK",
-      "note": "ATL $16.71 \u00b7 Amazon sold",
+      "note": "ATL $16.71 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 16.71,
       "atlNote": "S&S $16.59 at/under Camel Amazon low $16.71. Buy box $17.46. Sold by Amazon.",
@@ -2441,7 +2441,7 @@
       "badge": "Prime Big Deal",
       "atl": "near-atl",
       "url": "https://www.amazon.com/dp/B0BTKKJLLS",
-      "note": "Near-ATL $19.07 \u00b7 Amazon sold",
+      "note": "Near-ATL $19.07 · Amazon sold",
       "atlStatus": "near-atl",
       "atlPrice": 19.07,
       "atlNote": "S&S $19.85 is +$0.78 vs Camel Amazon low $19.07. Sold by Amazon.",
@@ -2456,7 +2456,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B087GMJXMC",
-      "note": "ATL $22.8 \u00b7 Amazon sold",
+      "note": "ATL $22.8 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 22.8,
       "atlNote": "S&S $21.84 under Camel Amazon low $22.80. Sold by Amazon.",
@@ -2471,7 +2471,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0CQMJFR1S",
-      "note": "ATL $18.93 \u00b7 Amazon sold",
+      "note": "ATL $18.93 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 18.93,
       "atlNote": "S&S $17.08 under Camel Amazon low $18.93. Sold by Amazon.",
@@ -2486,7 +2486,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B0CBL8TGXQ",
-      "note": "ATL $14.3 \u00b7 Amazon sold",
+      "note": "ATL $14.3 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 14.3,
       "atlNote": "S&S $12.56 under Camel Amazon low $14.30. Listing title is Ultimate Quantum (not Plus). Sold by Amazon.",
@@ -2501,7 +2501,7 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B092VQMW7T",
-      "note": "ATL $11.2 \u00b7 Amazon sold",
+      "note": "ATL $11.2 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 11.2,
       "atlNote": "S&S $11.00 at/under Camel Amazon low $11.20. Sold by Amazon.",
@@ -2516,10 +2516,10 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B08GBKHZ1K",
-      "note": "ATL $6.99 \u00b7 Amazon sold",
+      "note": "ATL $6.99 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 6.99,
-      "atlNote": "S&S $8.64 minus $4 S&S coupon \u2248 $4.64, under Camel Amazon low $6.99. Sold by Amazon.",
+      "atlNote": "S&S $8.64 minus $4 S&S coupon ≈ $4.64, under Camel Amazon low $6.99. Sold by Amazon.",
       "image": "assets/B08GBKHZ1K.jpg"
     },
     {
@@ -2531,10 +2531,10 @@
       "badge": "Prime Big Deal",
       "atl": "atl",
       "url": "https://www.amazon.com/dp/B09DQ8MVQL",
-      "note": "ATL $9.65 \u00b7 Amazon sold",
+      "note": "ATL $9.65 · Amazon sold",
       "atlStatus": "atl",
       "atlPrice": 9.65,
-      "atlNote": "S&S $12.46 with 35% S&S coupon \u2248 $8.10, under Camel Amazon low $9.65. Sold by Amazon.",
+      "atlNote": "S&S $12.46 with 35% S&S coupon ≈ $8.10, under Camel Amazon low $9.65. Sold by Amazon.",
       "image": "assets/B09DQ8MVQL.jpg"
     }
   ]
