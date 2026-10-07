@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T23:55:30-07:00",
+ "updatedAt": "2026-10-07T00:16:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1394,21 +1394,6 @@
    "image": "assets/B0FY9YW365.jpg"
   },
   {
-   "id": "B0FQXNCFWT",
-   "name": "Mario Tennis Fever (Switch 2)",
-   "price": 49.99,
-   "list": 69.0,
-   "category": "electronics",
-   "badge": "Big Deal Days",
-   "atl": "atl",
-   "atlStatus": "atl",
-   "atlPrice": 49.99,
-   "atlNote": "Matches camel Amazon low $49.99 (Jun 23, 2026).",
-   "url": "https://www.amazon.com/dp/B0FQXNCFWT",
-   "note": "ATL · lowest $49.99 · price per Nintendo Everything/Nintendo Wire BDD ($49.99); Tom's Guide $49; added 10:55pm PT Oct 6, confirm in cart",
-   "image": "assets/B0FQXNCFWT.jpg"
-  },
-  {
    "id": "B0FR6937TP",
    "name": "Final Fantasy VII Remake Intergrade (Switch 2)",
    "price": 24.0,
@@ -1816,7 +1801,7 @@
   {
    "id": "B0D8PTGKSM",
    "name": "Anker MagGo UFO 3-in-1 Charging Station",
-   "price": 60.0,
+   "price": 59.99,
    "list": 90.0,
    "category": "electronics",
    "badge": "Big Deal Days",
@@ -2202,21 +2187,6 @@
    "url": "https://www.amazon.com/dp/B0CNY1F31S",
    "note": "Near-ATL · lowest $49.97 · price per PopSci BDD under-$50 post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
    "image": "assets/B0CNY1F31S.jpg"
-  },
-  {
-   "id": "B0DB4W42VN",
-   "name": "KitchenAid Variable Speed Hand Blender",
-   "price": 65.0,
-   "list": 100.0,
-   "category": "kitchen",
-   "badge": "Big Deal Days",
-   "atl": "near-atl",
-   "atlStatus": "near-atl",
-   "atlPrice": 64.99,
-   "atlNote": "Near-ATL: +$0.01 (0.0%) vs camel Amazon low $64.99 (Jun 23, 2026).",
-   "url": "https://www.amazon.com/dp/B0DB4W42VN",
-   "note": "Near-ATL · lowest $64.99 · price per Business Insider Prime Day kitchen deals (Oct 2026); added 10:55pm PT Oct 6, confirm in cart",
-   "image": "assets/B0DB4W42VN.jpg"
   },
   {
    "id": "B0GS1FPXCK",
