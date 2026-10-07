@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T00:53:00-07:00",
+ "updatedAt": "2026-10-07T01:03:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1400,16 +1400,16 @@
   {
    "id": "B0FR6937TP",
    "name": "Final Fantasy VII Remake Intergrade (Switch 2)",
-   "price": 24.0,
-   "list": 39.0,
+   "price": 24.99,
+   "list": 39.99,
    "category": "electronics",
    "badge": "Big Deal Days",
-   "atl": "atl",
-   "atlStatus": "atl",
+   "atl": "near-atl",
+   "atlStatus": "near-atl",
    "atlPrice": 24.0,
    "atlNote": "New Amazon low: $24.00 beats camel Amazon low $29.83 (Jul 06, 2026).",
    "url": "https://www.amazon.com/dp/B0FR6937TP",
-   "note": "ATL · lowest $24.00 · price per Tom's Guide Switch 2 Prime Day post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "near-ATL · lowest $24.00 · now $24.99 (Prime Big Deal), shipped & sold by Amazon.com; browser-checked 1:03am PT Oct 7",
    "image": "assets/B0FR6937TP.jpg"
   },
   {
