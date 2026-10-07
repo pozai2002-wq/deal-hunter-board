@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T01:03:00-07:00",
+ "updatedAt": "2026-10-07T01:36:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1354,17 +1354,17 @@
   },
   {
    "id": "B08141GQQG",
-   "name": "Logitech G733 Lightspeed Wireless Headset",
-   "price": 89.99,
+   "name": "Logitech G733 Lightspeed Wireless Headset (White)",
+   "price": 85.49,
    "list": 119.99,
    "category": "headphones",
    "badge": "Big Deal Days",
-   "atl": "near-atl",
-   "atlStatus": "near-atl",
-   "atlPrice": 89.96,
-   "atlNote": "Near-ATL: +$0.03 (0.0%) vs camel Amazon low $89.96 (Feb 12, 2026).",
+   "atl": "atl",
+   "atlStatus": "atl",
+   "atlPrice": 85.49,
+   "atlNote": "NEW Amazon ATL: $85.49 beats prior camel Amazon low $89.96 (Feb 12, 2026). Shipped and sold by Amazon.com, in stock.",
    "url": "https://www.amazon.com/dp/B08141GQQG",
-   "note": "Near-ATL · lowest $89.96 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6 · live-checked 11:50pm PT Oct 6",
+   "note": "ATL · lowest $85.49 · dropped from $89.99 at 1:34am PT Oct 7 · sold by Amazon.com, -29% vs typical $119.99",
    "image": "assets/B08141GQQG.jpg"
   },
   {
