@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T10:33:00-07:00",
+ "updatedAt": "2026-10-07T10:46:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -884,7 +884,7 @@
    "atlPrice": 284.99,
    "atlNote": "Thrifle Amazon low $284.99 (Jun 27 2026); Basketprice short-window low $299.99 Oct 6 (+5.3%)",
    "url": "https://www.amazon.com/dp/B0G8HN99MK",
-   "note": "Near-ATL · lowest $284.99 · now $299.99 · −40%",
+   "note": "Near-ATL · lowest $284.99 · ⚠ Temporarily out of stock on Amazon at 10:45am PT Oct 7 (no buy box)",
    "image": "assets/B0G8HN99MK.webp"
   },
   {
@@ -2516,7 +2516,7 @@
    "badge": "Prime Big Deal",
    "atl": "atl",
    "url": "https://www.amazon.com/dp/B07YD3KQ5S",
-   "note": "ATL $11.78 · Amazon sold",
+   "note": "ATL $11.78 · one-time $11.53 · S&S $10.95 beats ATL · Prime Big Deal · Amazon sold · checked 10:45am PT Oct 7",
    "atlStatus": "atl",
    "atlPrice": 11.78,
    "atlNote": "Buy box $11.53 (S&S $10.95) at/under Camel Amazon low $11.78. Sold by Amazon.",
