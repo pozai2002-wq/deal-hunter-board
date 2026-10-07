@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0f1a" />
+  <meta name="description" content="Leo's Deal Hunter — Amazon Prime Big Deal Days live board" />
+  <title>Leo's Deal Hunter · Prime Big Deal Days</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">⚡</div>
+        <div class="brand-text">
+          <h1>Leo's Deal Hunter</h1>
+          <p class="tagline">Prime Big Deal Days · through Oct 7, 11:59pm PT</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <div class="live-pill" id="livePill" title="Polling deals.json every 30s">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span class="live-label">Live</span>
+        </div>
+        <button type="button" class="btn btn-ghost" id="copyLinkBtn" aria-label="Copy shareable link">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+            <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+          </svg>
+          <span>Copy link</span>
+        </button>
+      </div>
+    </div>
+    <p class="refresh-meta" id="refreshMeta">Loading deals…</p>
+  </header>
+
+  <main class="main">
+    <section class="controls" aria-label="Filters and search">
+      <div class="search-wrap">
+        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+        </svg>
+        <input type="search" id="searchInput" class="search-input" placeholder="Search deals…" autocomplete="off" enterkeyhint="search" />
+      </div>
+
+      <div class="chips" id="categoryChips" role="group" aria-label="Category filter">
+        <button type="button" class="chip active" data-category="all">All</button>
+        <button type="button" class="chip" data-category="electronics">Electronics</button>
+        <button type="button" class="chip" data-category="keyboards">Keyboards</button>
+        <button type="button" class="chip" data-category="headphones">Headphones</button>
+        <button type="button" class="chip" data-category="home">Home</button>
+        <button type="button" class="chip" data-category="kitchen">Kitchen</button>
+        <button type="button" class="chip" data-category="beauty">Beauty</button>
+      </div>
+
+      <div class="sort-wrap">
+        <label for="sortSelect" class="sort-label">Sort</label>
+        <select id="sortSelect" class="sort-select">
+          <option value="pct-desc">% Off (high → low)</option>
+          <option value="price-asc">Price (low → high)</option>
+          <option value="price-desc">Price (high → low)</option>
+          <option value="atl">ATL conviction</option>
+        </select>
+      </div>
+    </section>
+
+    <p class="results-count" id="resultsCount" aria-live="polite"></p>
+
+    <section class="deal-grid" id="dealGrid" aria-label="Deal cards"></section>
+
+    <div class="empty-state hidden" id="emptyState">
+      <p>No deals match your filters.</p>
+      <button type="button" class="btn btn-ghost" id="resetFiltersBtn">Reset filters</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Prices verified while signed into Amazon. Not financial advice. Links go to Amazon.</p>
+    <p class="footer-meta">Static deal board · polls <code>deals.json</code> every 30s</p>
+  </footer>
+
+  <div class="toast hidden" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
