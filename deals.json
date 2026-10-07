@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T03:34:58-07:00",
+ "updatedAt": "2026-10-07T04:37:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1130,16 +1130,16 @@
   {
    "id": "B07NSSPV9S",
    "name": "Logitech G703 Lightspeed Wireless Mouse",
-   "price": 53.98,
+   "price": 51.28,
    "list": 99.99,
    "category": "electronics",
    "badge": "Big Deal Days",
    "atl": "near-atl",
    "atlStatus": "near-atl",
    "atlPrice": 49.39,
-   "atlNote": "Near-ATL: +$4.59 (9.3%) vs camel Amazon low $49.39 (Nov 14, 2024).",
+   "atlNote": "Near-ATL: +$1.89 (3.8%) vs camel Amazon low $49.39 (Nov 14, 2024).",
    "url": "https://www.amazon.com/dp/B07NSSPV9S",
-   "note": "Near-ATL · lowest $49.39 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "Near-ATL · lowest $49.39 · dropped to $51.28 at 4:35am PT Oct 7 (was $53.98); confirm in cart",
    "image": "assets/B07NSSPV9S.jpg"
   },
   {
