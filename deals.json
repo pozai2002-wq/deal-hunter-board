@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T04:37:00-07:00",
+ "updatedAt": "2026-10-07T06:59:00-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -1040,16 +1040,16 @@
   {
    "id": "B0D1G53TZ2",
    "name": "Logitech G915 X Wired Low-Profile Mechanical (Linear)",
-   "price": 149.99,
+   "price": 142.49,
    "list": 199.99,
    "category": "keyboards",
    "badge": "Big Deal Days",
-   "atl": "near-atl",
-   "atlStatus": "near-atl",
+   "atl": "atl",
+   "atlStatus": "atl",
    "atlPrice": 142.49,
-   "atlNote": "Near-ATL: +$7.50 (5.3%) vs camel Amazon low $142.49 (Jun 24, 2026).",
+   "atlNote": "ATL: matches camel Amazon low $142.49 (Jun 24, 2026).",
    "url": "https://www.amazon.com/dp/B0D1G53TZ2",
-   "note": "Near-ATL · lowest $142.49 · price per PopSci Logitech BDD post (Oct 6); added 10:55pm PT Oct 6, confirm in cart",
+   "note": "ATL · lowest $142.49 · dropped from $149.99 at 6:57am PT Oct 7, confirm in cart",
    "image": "assets/B0D1G53TZ2.jpg"
   },
   {
