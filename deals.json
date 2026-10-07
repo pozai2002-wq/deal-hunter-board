@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T01:36:00-07:00",
+ "updatedAt": "2026-10-07T03:34:58-07:00",
  "eventEnds": "2026-10-07T23:59:00-07:00",
  "deals": [
   {
@@ -2266,21 +2266,6 @@
    "atlPrice": 9.29,
    "atlNote": "Near-ATL: +$1.55 vs Camel Amazon low $9.29 (Nov 22, 2016). Sold by Amazon.",
    "image": "assets/B00SNPCSUY.jpg"
-  },
-  {
-   "id": "B08MJZYW8P",
-   "name": "ELEMIS Pro-Collagen Cleansing Balm",
-   "price": 45.0,
-   "list": 75.0,
-   "category": "beauty",
-   "badge": "Prime Big Deal",
-   "atl": "near-atl",
-   "url": "https://www.amazon.com/dp/B08MJZYW8P",
-   "note": "Near-ATL · Camel Amazon low $33 · sold by ELEMIS",
-   "atlStatus": "near-atl",
-   "atlPrice": 33.0,
-   "atlNote": "Near-ATL: +$12 vs Camel Amazon low $33 (Jan 19, 2023). Sold by ELEMIS, shipped by Amazon. Deepest % BDD cut per deal press.",
-   "image": "assets/B08MJZYW8P.jpg"
   },
   {
    "id": "B00949CTQQ",
